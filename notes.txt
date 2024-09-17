@@ -1,0 +1,12 @@
+Test Sites
+
+- https://webscraper.io/test-sites
+- https://www.scrapethissite.com/pages/
+- https://medium.com/@spaw.co/best-websites-to-practice-web-scraping-9df5d4df4d1
+- https://www.jcchouinard.com/best-websites-for-web-scraping/
+
+
+Tools
+
+- https://scrapeninja.net/scraper-sandbox
+- https://beautifulsouponline.com/
