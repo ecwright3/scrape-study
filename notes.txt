@@ -10,3 +10,6 @@ Tools
 
 - https://scrapeninja.net/scraper-sandbox
 - https://beautifulsouponline.com/
+
+Refrences
+- https://developer.mozilla.org/en-US/docs/Web/CSS/:last-child
