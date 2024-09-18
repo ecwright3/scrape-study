@@ -1,5 +1,4 @@
 Test Sites
-
 - https://webscraper.io/test-sites
 - https://www.scrapethissite.com/pages/
 - https://medium.com/@spaw.co/best-websites-to-practice-web-scraping-9df5d4df4d1
@@ -7,9 +6,10 @@ Test Sites
 
 
 Tools
-
 - https://scrapeninja.net/scraper-sandbox
 - https://beautifulsouponline.com/
 
 Refrences
 - https://developer.mozilla.org/en-US/docs/Web/CSS/:last-child
+- https://webscraping.ai/faq/colly/what-is-the-best-way-to-handle-dynamic-ajax-requests-with-colly
+
