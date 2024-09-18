@@ -12,4 +12,5 @@ Tools
 Refrences
 - https://developer.mozilla.org/en-US/docs/Web/CSS/:last-child
 - https://webscraping.ai/faq/colly/what-is-the-best-way-to-handle-dynamic-ajax-requests-with-colly
+- https://webscraping.ai/faq/colly/can-colly-handle-scraping-multiple-pages-in-parallel
 
