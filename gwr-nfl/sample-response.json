@@ -1,0 +1,1995 @@
+{
+    "disclaimer": "Gambling Problem? Call 1-800-GAMBLER. Hope is here. GamblingHelpLineMA.org or call (800) 327-5050 for 24/7 support (MA). Visit www.mdgamblinghelp.org (MD). Call 877-8HOPE-NY or text HOPENY (467369) (NY). 21+ (18+ D.C.) and present in select states (for KS, in affiliation with Kansas Star Casino). Call 1-888-789-7777 or visit ccpg.org/chat (CT) or visit FanDuel.com/RG.",
+    "bookmakers": {
+        "8030": {
+            "link": "https://secure.adnxs.com/seg?t=2&add=27656765&redir=https%3A%2F%2Fssl.connextra.com%2FNFL%2Fselector%2Fclick%3Fclient%3DNFL%26placement%3DNFL_NFL_Fanduel_Mainlines_300x250_Tracker%26tclk%3Dhttps%3A%2F%2Fwlfanduelus.adsrv.eacdn.com%2FC.ashx%3Fbtag%3Da_21590b_16c_%26affid%3D14066%26siteid%3D21590%26adid%3D16%26c%3D",
+            "logo": {
+                "dark": {
+                    "icon": "https://gsm-widgets.betstream.betgenius.com/img/bookmaker-logos/dark/8030/svg/8030-icon.svg",
+                    "x1": "https://gsm-widgets.betstream.betgenius.com/img/bookmaker-logos/dark/8030/png/8030-x1.png",
+                    "x2": "https://gsm-widgets.betstream.betgenius.com/img/bookmaker-logos/dark/8030/png/8030-x2.png",
+                    "x3": "https://gsm-widgets.betstream.betgenius.com/img/bookmaker-logos/dark/8030/png/8030-x2.png",
+                    "svg": "https://gsm-widgets.betstream.betgenius.com/img/bookmaker-logos/dark/8030/svg/8030.svg"
+                },
+                "light": {
+                    "icon": "https://gsm-widgets.betstream.betgenius.com/img/bookmaker-logos/light/8030/svg/8030-icon.svg",
+                    "x1": "https://gsm-widgets.betstream.betgenius.com/img/bookmaker-logos/light/8030/png/8030-x1.png",
+                    "x2": "https://gsm-widgets.betstream.betgenius.com/img/bookmaker-logos/light/8030/png/8030-x2.png",
+                    "x3": "https://gsm-widgets.betstream.betgenius.com/img/bookmaker-logos/light/8030/png/8030-x2.png",
+                    "svg": "https://gsm-widgets.betstream.betgenius.com/img/bookmaker-logos/light/8030/svg/8030.svg"
+                }
+            },
+            "name": "FanDuel",
+            "offerText": "Up to $500 in site credit",
+            "ctaOffer": {
+                "link": "https://secure.adnxs.com/seg?t=2&add=27656765&redir=https%3A%2F%2Fssl.connextra.com%2FNFL%2Fselector%2Fclick%3Fclient%3DNFL%26placement%3DNFL_NFL_Fanduel_Mainlines_300x250_Tracker%26tclk%3Dhttps%3A%2F%2Fwlfanduelus.adsrv.eacdn.com%2FC.ashx%3Fbtag%3Da_21590b_16c_%26affid%3D14066%26siteid%3D21590%26adid%3D16%26c%3D",
+                "offerText": "Bet $5 Get $150 in Bonus Bets if your bet wins + Boost/Bonus Every Day",
+                "linkText": "Play Now!",
+                "dismissibleOffer": true
+            },
+            "ctaOfferIsEnabled": true
+        }
+    },
+    "fixtures": [
+        {
+            "name": "New York Jets v New England Patriots",
+            "fixtureId": "11060992",
+            "scheduledStartTime": "2024-09-20T00:15:00+00:00",
+            "competitors": [
+                {
+                    "homeOrAway": "HOME",
+                    "competitorId": "119885",
+                    "officialName": "New York Jets",
+                    "firstName": "New York",
+                    "secondName": "Jets",
+                    "shortName": "Jets",
+                    "abbreviation": "NYJ",
+                    "brand": {
+                        "primaryColor": "#115740",
+                        "secondaryColor": "#B1B3B6",
+                        "logo": {
+                            "svg": "https://gsm-shared-assets.betstream.betgenius.com/shared/assets/sports/american-football/competitors/logos/svg/119885.svg"
+                        }
+                    },
+                    "displayName": [
+                        "NYJ"
+                    ]
+                },
+                {
+                    "homeOrAway": "AWAY",
+                    "competitorId": "119172",
+                    "officialName": "New England Patriots",
+                    "firstName": "New England",
+                    "secondName": "Patriots",
+                    "shortName": "Patriots",
+                    "abbreviation": "NE",
+                    "brand": {
+                        "primaryColor": "#002244",
+                        "secondaryColor": "#C60C30",
+                        "logo": {
+                            "svg": "https://gsm-shared-assets.betstream.betgenius.com/shared/assets/sports/american-football/competitors/logos/svg/119172.svg"
+                        }
+                    },
+                    "displayName": [
+                        "NE"
+                    ]
+                }
+            ],
+            "competitionId": "296",
+            "roundName": "Week 3",
+            "venueName": "MetLife Stadium",
+            "sportId": "17",
+            "matchSummaries": {
+                "awayScore": 0,
+                "fixtureId": "11060992",
+                "homeScore": 0,
+                "isReliable": false,
+                "matchStatus": "PreMatch",
+                "sourceId": "-13",
+                "inPlayStatus": "PreMatch",
+                "matchState": null,
+                "phase": "PreGame",
+                "priority": 0
+            },
+            "records": [],
+            "markets": {
+                "spread": [
+                    {
+                        "sourceFixture": {
+                            "fixtureId": "11060992",
+                            "sourceCompetitionId": "12282733"
+                        },
+                        "sourceMarketId": "33575877-754.98812279",
+                        "marketTypeId": "106",
+                        "name": "Spread",
+                        "sourceId": "8030",
+                        "isSuspended": false,
+                        "selections": [
+                            {
+                                "denominator": 100,
+                                "numerator": 83,
+                                "decimal": 1.83,
+                                "american": -120,
+                                "name": "New England Patriots",
+                                "outcome": "Away",
+                                "price": "-120",
+                                "handicap": 6.5,
+                                "competitorId": "119172",
+                                "lookups": [],
+                                "sourceSelectionId": "33575877-754.98812279-50204",
+                                "link": "https://secure.adnxs.com/seg?t=2&add=27656765&redir=https%3A%2F%2Fssl.connextra.com%2FNFL%2Fselector%2Fclick%3Fclient%3DNFL%26placement%3DNFL_NFL_Fanduel_Mainlines_300x250_Tracker%26tclk%3Dhttps%3A%2F%2Fwlfanduelus.adsrv.eacdn.com%2FC.ashx%3Fbtag%3Da_21590b_16c_%26affid%3D14066%26siteid%3D21590%26adid%3D16%26c%3D"
+                            },
+                            {
+                                "denominator": 50,
+                                "numerator": 49,
+                                "decimal": 1.98,
+                                "american": -102,
+                                "name": "New York Jets",
+                                "outcome": "Home",
+                                "price": "-102",
+                                "handicap": -6.5,
+                                "competitorId": "119885",
+                                "lookups": [],
+                                "sourceSelectionId": "33575877-754.98812279-50202",
+                                "link": "https://secure.adnxs.com/seg?t=2&add=27656765&redir=https%3A%2F%2Fssl.connextra.com%2FNFL%2Fselector%2Fclick%3Fclient%3DNFL%26placement%3DNFL_NFL_Fanduel_Mainlines_300x250_Tracker%26tclk%3Dhttps%3A%2F%2Fwlfanduelus.adsrv.eacdn.com%2FC.ashx%3Fbtag%3Da_21590b_16c_%26affid%3D14066%26siteid%3D21590%26adid%3D16%26c%3D"
+                            }
+                        ],
+                        "_lastTransformedAt": "2024-09-18T12:29:14.027Z"
+                    }
+                ],
+                "overUnder": [
+                    {
+                        "sourceFixture": {
+                            "fixtureId": "11060992",
+                            "sourceCompetitionId": "12282733"
+                        },
+                        "sourceMarketId": "33575877-754.98812282",
+                        "marketTypeId": "263",
+                        "name": "Total Match Points",
+                        "sourceId": "8030",
+                        "isSuspended": false,
+                        "selections": [
+                            {
+                                "denominator": 100,
+                                "numerator": 87,
+                                "decimal": 1.87,
+                                "american": -115,
+                                "name": "Over",
+                                "outcome": "Over",
+                                "price": "-115",
+                                "handicap": 38.5,
+                                "competitorId": null,
+                                "lookups": [],
+                                "sourceSelectionId": "33575877-754.98812282-7017916",
+                                "link": "https://secure.adnxs.com/seg?t=2&add=27656765&redir=https%3A%2F%2Fssl.connextra.com%2FNFL%2Fselector%2Fclick%3Fclient%3DNFL%26placement%3DNFL_NFL_Fanduel_Mainlines_300x250_Tracker%26tclk%3Dhttps%3A%2F%2Fwlfanduelus.adsrv.eacdn.com%2FC.ashx%3Fbtag%3Da_21590b_16c_%26affid%3D14066%26siteid%3D21590%26adid%3D16%26c%3D"
+                            },
+                            {
+                                "denominator": 20,
+                                "numerator": 19,
+                                "decimal": 1.95,
+                                "american": -105,
+                                "name": "Under",
+                                "outcome": "Under",
+                                "price": "-105",
+                                "handicap": 38.5,
+                                "competitorId": null,
+                                "lookups": [],
+                                "sourceSelectionId": "33575877-754.98812282-7017917",
+                                "link": "https://secure.adnxs.com/seg?t=2&add=27656765&redir=https%3A%2F%2Fssl.connextra.com%2FNFL%2Fselector%2Fclick%3Fclient%3DNFL%26placement%3DNFL_NFL_Fanduel_Mainlines_300x250_Tracker%26tclk%3Dhttps%3A%2F%2Fwlfanduelus.adsrv.eacdn.com%2FC.ashx%3Fbtag%3Da_21590b_16c_%26affid%3D14066%26siteid%3D21590%26adid%3D16%26c%3D"
+                            }
+                        ],
+                        "_lastTransformedAt": "2024-09-18T12:29:14.027Z"
+                    }
+                ],
+                "moneyLine": [
+                    {
+                        "sourceFixture": {
+                            "fixtureId": "11060992",
+                            "sourceCompetitionId": "12282733"
+                        },
+                        "sourceMarketId": "33575877-754.98812280",
+                        "marketTypeId": "103",
+                        "name": "Moneyline",
+                        "sourceId": "8030",
+                        "isSuspended": false,
+                        "selections": [
+                            {
+                                "denominator": 4,
+                                "numerator": 9,
+                                "decimal": 3.25,
+                                "american": 225,
+                                "name": "New England Patriots",
+                                "outcome": "Away",
+                                "price": "+225",
+                                "handicap": 0,
+                                "competitorId": "119172",
+                                "lookups": [],
+                                "sourceSelectionId": "33575877-754.98812280-50204",
+                                "link": "https://secure.adnxs.com/seg?t=2&add=27656765&redir=https%3A%2F%2Fssl.connextra.com%2FNFL%2Fselector%2Fclick%3Fclient%3DNFL%26placement%3DNFL_NFL_Fanduel_Mainlines_300x250_Tracker%26tclk%3Dhttps%3A%2F%2Fwlfanduelus.adsrv.eacdn.com%2FC.ashx%3Fbtag%3Da_21590b_16c_%26affid%3D14066%26siteid%3D21590%26adid%3D16%26c%3D"
+                            },
+                            {
+                                "denominator": 25,
+                                "numerator": 9,
+                                "decimal": 1.36,
+                                "american": -275,
+                                "name": "New York Jets",
+                                "outcome": "Home",
+                                "price": "-275",
+                                "handicap": 0,
+                                "competitorId": "119885",
+                                "lookups": [],
+                                "sourceSelectionId": "33575877-754.98812280-50202",
+                                "link": "https://secure.adnxs.com/seg?t=2&add=27656765&redir=https%3A%2F%2Fssl.connextra.com%2FNFL%2Fselector%2Fclick%3Fclient%3DNFL%26placement%3DNFL_NFL_Fanduel_Mainlines_300x250_Tracker%26tclk%3Dhttps%3A%2F%2Fwlfanduelus.adsrv.eacdn.com%2FC.ashx%3Fbtag%3Da_21590b_16c_%26affid%3D14066%26siteid%3D21590%26adid%3D16%26c%3D"
+                            }
+                        ],
+                        "_lastTransformedAt": "2024-09-18T12:29:14.027Z"
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Cleveland Browns v New York Giants",
+            "fixtureId": "11060999",
+            "scheduledStartTime": "2024-09-22T17:00:00+00:00",
+            "competitors": [
+                {
+                    "homeOrAway": "HOME",
+                    "competitorId": "102649",
+                    "officialName": "Cleveland Browns",
+                    "firstName": "Cleveland",
+                    "secondName": "Browns",
+                    "shortName": "Browns",
+                    "abbreviation": "CLE",
+                    "brand": {
+                        "primaryColor": "#FF3C00",
+                        "secondaryColor": "#311D00",
+                        "logo": {
+                            "svg": "https://gsm-shared-assets.betstream.betgenius.com/shared/assets/sports/american-football/competitors/logos/svg/102649.svg"
+                        }
+                    },
+                    "displayName": [
+                        "CLE"
+                    ]
+                },
+                {
+                    "homeOrAway": "AWAY",
+                    "competitorId": "119884",
+                    "officialName": "New York Giants",
+                    "firstName": "New York",
+                    "secondName": "Giants",
+                    "shortName": "Giants",
+                    "abbreviation": "NYG",
+                    "brand": {
+                        "primaryColor": "#0B2265",
+                        "secondaryColor": "#A71930",
+                        "logo": {
+                            "svg": "https://gsm-shared-assets.betstream.betgenius.com/shared/assets/sports/american-football/competitors/logos/svg/119884.svg"
+                        }
+                    },
+                    "displayName": [
+                        "NYG"
+                    ]
+                }
+            ],
+            "competitionId": "296",
+            "roundName": "Week 3",
+            "venueName": "Cleveland Browns Stadium",
+            "sportId": "17",
+            "matchSummaries": {
+                "awayScore": 0,
+                "fixtureId": "11060999",
+                "homeScore": 0,
+                "isReliable": false,
+                "matchStatus": "PreMatch",
+                "sourceId": "-13",
+                "inPlayStatus": "PreMatch",
+                "matchState": null,
+                "phase": "PreGame",
+                "priority": 0
+            },
+            "records": [],
+            "markets": {
+                "spread": [
+                    {
+                        "sourceFixture": {
+                            "fixtureId": "11060999",
+                            "sourceCompetitionId": "12282733"
+                        },
+                        "sourceMarketId": "33575893-754.98812393",
+                        "marketTypeId": "106",
+                        "name": "Spread",
+                        "sourceId": "8030",
+                        "isSuspended": false,
+                        "selections": [
+                            {
+                                "denominator": 100,
+                                "numerator": 87,
+                                "decimal": 1.87,
+                                "american": -115,
+                                "name": "New York Giants",
+                                "outcome": "Away",
+                                "price": "-115",
+                                "handicap": 6.5,
+                                "competitorId": "119884",
+                                "lookups": [],
+                                "sourceSelectionId": "33575893-754.98812393-50185",
+                                "link": "https://secure.adnxs.com/seg?t=2&add=27656765&redir=https%3A%2F%2Fssl.connextra.com%2FNFL%2Fselector%2Fclick%3Fclient%3DNFL%26placement%3DNFL_NFL_Fanduel_Mainlines_300x250_Tracker%26tclk%3Dhttps%3A%2F%2Fwlfanduelus.adsrv.eacdn.com%2FC.ashx%3Fbtag%3Da_21590b_16c_%26affid%3D14066%26siteid%3D21590%26adid%3D16%26c%3D"
+                            },
+                            {
+                                "denominator": 20,
+                                "numerator": 19,
+                                "decimal": 1.95,
+                                "american": -105,
+                                "name": "Cleveland Browns",
+                                "outcome": "Home",
+                                "price": "-105",
+                                "handicap": -6.5,
+                                "competitorId": "102649",
+                                "lookups": [],
+                                "sourceSelectionId": "33575893-754.98812393-50209",
+                                "link": "https://secure.adnxs.com/seg?t=2&add=27656765&redir=https%3A%2F%2Fssl.connextra.com%2FNFL%2Fselector%2Fclick%3Fclient%3DNFL%26placement%3DNFL_NFL_Fanduel_Mainlines_300x250_Tracker%26tclk%3Dhttps%3A%2F%2Fwlfanduelus.adsrv.eacdn.com%2FC.ashx%3Fbtag%3Da_21590b_16c_%26affid%3D14066%26siteid%3D21590%26adid%3D16%26c%3D"
+                            }
+                        ],
+                        "_lastTransformedAt": "2024-09-18T12:29:14.027Z"
+                    }
+                ],
+                "overUnder": [
+                    {
+                        "sourceFixture": {
+                            "fixtureId": "11060999",
+                            "sourceCompetitionId": "12282733"
+                        },
+                        "sourceMarketId": "33575893-754.98812396",
+                        "marketTypeId": "263",
+                        "name": "Total Match Points",
+                        "sourceId": "8030",
+                        "isSuspended": false,
+                        "selections": [
+                            {
+                                "denominator": 100,
+                                "numerator": 93,
+                                "decimal": 1.93,
+                                "american": -108,
+                                "name": "Over",
+                                "outcome": "Over",
+                                "price": "-108",
+                                "handicap": 38.5,
+                                "competitorId": null,
+                                "lookups": [],
+                                "sourceSelectionId": "33575893-754.98812396-7017916",
+                                "link": "https://secure.adnxs.com/seg?t=2&add=27656765&redir=https%3A%2F%2Fssl.connextra.com%2FNFL%2Fselector%2Fclick%3Fclient%3DNFL%26placement%3DNFL_NFL_Fanduel_Mainlines_300x250_Tracker%26tclk%3Dhttps%3A%2F%2Fwlfanduelus.adsrv.eacdn.com%2FC.ashx%3Fbtag%3Da_21590b_16c_%26affid%3D14066%26siteid%3D21590%26adid%3D16%26c%3D"
+                            },
+                            {
+                                "denominator": 100,
+                                "numerator": 89,
+                                "decimal": 1.89,
+                                "american": -112,
+                                "name": "Under",
+                                "outcome": "Under",
+                                "price": "-112",
+                                "handicap": 38.5,
+                                "competitorId": null,
+                                "lookups": [],
+                                "sourceSelectionId": "33575893-754.98812396-7017917",
+                                "link": "https://secure.adnxs.com/seg?t=2&add=27656765&redir=https%3A%2F%2Fssl.connextra.com%2FNFL%2Fselector%2Fclick%3Fclient%3DNFL%26placement%3DNFL_NFL_Fanduel_Mainlines_300x250_Tracker%26tclk%3Dhttps%3A%2F%2Fwlfanduelus.adsrv.eacdn.com%2FC.ashx%3Fbtag%3Da_21590b_16c_%26affid%3D14066%26siteid%3D21590%26adid%3D16%26c%3D"
+                            }
+                        ],
+                        "_lastTransformedAt": "2024-09-18T12:29:14.027Z"
+                    }
+                ],
+                "moneyLine": [
+                    {
+                        "sourceFixture": {
+                            "fixtureId": "11060999",
+                            "sourceCompetitionId": "12282733"
+                        },
+                        "sourceMarketId": "33575893-754.98812394",
+                        "marketTypeId": "103",
+                        "name": "Moneyline",
+                        "sourceId": "8030",
+                        "isSuspended": false,
+                        "selections": [
+                            {
+                                "denominator": 20,
+                                "numerator": 49,
+                                "decimal": 3.45,
+                                "american": 245,
+                                "name": "New York Giants",
+                                "outcome": "Away",
+                                "price": "+245",
+                                "handicap": 0,
+                                "competitorId": "119884",
+                                "lookups": [],
+                                "sourceSelectionId": "33575893-754.98812394-50185",
+                                "link": "https://secure.adnxs.com/seg?t=2&add=27656765&redir=https%3A%2F%2Fssl.connextra.com%2FNFL%2Fselector%2Fclick%3Fclient%3DNFL%26placement%3DNFL_NFL_Fanduel_Mainlines_300x250_Tracker%26tclk%3Dhttps%3A%2F%2Fwlfanduelus.adsrv.eacdn.com%2FC.ashx%3Fbtag%3Da_21590b_16c_%26affid%3D14066%26siteid%3D21590%26adid%3D16%26c%3D"
+                            },
+                            {
+                                "denominator": 100,
+                                "numerator": 33,
+                                "decimal": 1.33,
+                                "american": -300,
+                                "name": "Cleveland Browns",
+                                "outcome": "Home",
+                                "price": "-300",
+                                "handicap": 0,
+                                "competitorId": "102649",
+                                "lookups": [],
+                                "sourceSelectionId": "33575893-754.98812394-50209",
+                                "link": "https://secure.adnxs.com/seg?t=2&add=27656765&redir=https%3A%2F%2Fssl.connextra.com%2FNFL%2Fselector%2Fclick%3Fclient%3DNFL%26placement%3DNFL_NFL_Fanduel_Mainlines_300x250_Tracker%26tclk%3Dhttps%3A%2F%2Fwlfanduelus.adsrv.eacdn.com%2FC.ashx%3Fbtag%3Da_21590b_16c_%26affid%3D14066%26siteid%3D21590%26adid%3D16%26c%3D"
+                            }
+                        ],
+                        "_lastTransformedAt": "2024-09-18T12:29:14.027Z"
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Indianapolis Colts v Chicago Bears",
+            "fixtureId": "11060996",
+            "scheduledStartTime": "2024-09-22T17:00:00+00:00",
+            "competitors": [
+                {
+                    "homeOrAway": "HOME",
+                    "competitorId": "105059",
+                    "officialName": "Indianapolis Colts",
+                    "firstName": "Indianapolis",
+                    "secondName": "Colts",
+                    "shortName": "Colts",
+                    "abbreviation": "IND",
+                    "brand": {
+                        "primaryColor": "#013369",
+                        "secondaryColor": "#A5ACAF",
+                        "logo": {
+                            "svg": "https://gsm-shared-assets.betstream.betgenius.com/shared/assets/sports/american-football/competitors/logos/svg/105059.svg"
+                        }
+                    },
+                    "displayName": [
+                        "IND"
+                    ]
+                },
+                {
+                    "homeOrAway": "AWAY",
+                    "competitorId": "102222",
+                    "officialName": "Chicago Bears",
+                    "firstName": "Chicago",
+                    "secondName": "Bears",
+                    "shortName": "Bears",
+                    "abbreviation": "CHI",
+                    "brand": {
+                        "primaryColor": "#0B162A",
+                        "secondaryColor": "#E64100",
+                        "logo": {
+                            "svg": "https://gsm-shared-assets.betstream.betgenius.com/shared/assets/sports/american-football/competitors/logos/svg/102222.svg"
+                        }
+                    },
+                    "displayName": [
+                        "CHI"
+                    ]
+                }
+            ],
+            "competitionId": "296",
+            "roundName": "Week 3",
+            "venueName": "Lucas Oil Stadium",
+            "sportId": "17",
+            "matchSummaries": {
+                "awayScore": 0,
+                "fixtureId": "11060996",
+                "homeScore": 0,
+                "isReliable": false,
+                "matchStatus": "PreMatch",
+                "sourceId": "-13",
+                "inPlayStatus": "PreMatch",
+                "matchState": null,
+                "phase": "PreGame",
+                "priority": 0
+            },
+            "records": [],
+            "markets": {
+                "spread": [
+                    {
+                        "sourceFixture": {
+                            "fixtureId": "11060996",
+                            "sourceCompetitionId": "12282733"
+                        },
+                        "sourceMarketId": "33575909-754.98812584",
+                        "marketTypeId": "106",
+                        "name": "Spread",
+                        "sourceId": "8030",
+                        "isSuspended": false,
+                        "selections": [
+                            {
+                                "denominator": 100,
+                                "numerator": 87,
+                                "decimal": 1.87,
+                                "american": -115,
+                                "name": "Chicago Bears",
+                                "outcome": "Away",
+                                "price": "-115",
+                                "handicap": 1.5,
+                                "competitorId": "102222",
+                                "lookups": [],
+                                "sourceSelectionId": "33575909-754.98812584-50194",
+                                "link": "https://secure.adnxs.com/seg?t=2&add=27656765&redir=https%3A%2F%2Fssl.connextra.com%2FNFL%2Fselector%2Fclick%3Fclient%3DNFL%26placement%3DNFL_NFL_Fanduel_Mainlines_300x250_Tracker%26tclk%3Dhttps%3A%2F%2Fwlfanduelus.adsrv.eacdn.com%2FC.ashx%3Fbtag%3Da_21590b_16c_%26affid%3D14066%26siteid%3D21590%26adid%3D16%26c%3D"
+                            },
+                            {
+                                "denominator": 20,
+                                "numerator": 19,
+                                "decimal": 1.95,
+                                "american": -105,
+                                "name": "Indianapolis Colts",
+                                "outcome": "Home",
+                                "price": "-105",
+                                "handicap": -1.5,
+                                "competitorId": "105059",
+                                "lookups": [],
+                                "sourceSelectionId": "33575909-754.98812584-50200",
+                                "link": "https://secure.adnxs.com/seg?t=2&add=27656765&redir=https%3A%2F%2Fssl.connextra.com%2FNFL%2Fselector%2Fclick%3Fclient%3DNFL%26placement%3DNFL_NFL_Fanduel_Mainlines_300x250_Tracker%26tclk%3Dhttps%3A%2F%2Fwlfanduelus.adsrv.eacdn.com%2FC.ashx%3Fbtag%3Da_21590b_16c_%26affid%3D14066%26siteid%3D21590%26adid%3D16%26c%3D"
+                            }
+                        ],
+                        "_lastTransformedAt": "2024-09-18T12:29:14.027Z"
+                    }
+                ],
+                "overUnder": [
+                    {
+                        "sourceFixture": {
+                            "fixtureId": "11060996",
+                            "sourceCompetitionId": "12282733"
+                        },
+                        "sourceMarketId": "33575909-754.98812583",
+                        "marketTypeId": "263",
+                        "name": "Total Match Points",
+                        "sourceId": "8030",
+                        "isSuspended": false,
+                        "selections": [
+                            {
+                                "denominator": 25,
+                                "numerator": 22,
+                                "decimal": 1.88,
+                                "american": -114,
+                                "name": "Over",
+                                "outcome": "Over",
+                                "price": "-114",
+                                "handicap": 43.5,
+                                "competitorId": null,
+                                "lookups": [],
+                                "sourceSelectionId": "33575909-754.98812583-7017916",
+                                "link": "https://secure.adnxs.com/seg?t=2&add=27656765&redir=https%3A%2F%2Fssl.connextra.com%2FNFL%2Fselector%2Fclick%3Fclient%3DNFL%26placement%3DNFL_NFL_Fanduel_Mainlines_300x250_Tracker%26tclk%3Dhttps%3A%2F%2Fwlfanduelus.adsrv.eacdn.com%2FC.ashx%3Fbtag%3Da_21590b_16c_%26affid%3D14066%26siteid%3D21590%26adid%3D16%26c%3D"
+                            },
+                            {
+                                "denominator": 50,
+                                "numerator": 47,
+                                "decimal": 1.94,
+                                "american": -106,
+                                "name": "Under",
+                                "outcome": "Under",
+                                "price": "-106",
+                                "handicap": 43.5,
+                                "competitorId": null,
+                                "lookups": [],
+                                "sourceSelectionId": "33575909-754.98812583-7017917",
+                                "link": "https://secure.adnxs.com/seg?t=2&add=27656765&redir=https%3A%2F%2Fssl.connextra.com%2FNFL%2Fselector%2Fclick%3Fclient%3DNFL%26placement%3DNFL_NFL_Fanduel_Mainlines_300x250_Tracker%26tclk%3Dhttps%3A%2F%2Fwlfanduelus.adsrv.eacdn.com%2FC.ashx%3Fbtag%3Da_21590b_16c_%26affid%3D14066%26siteid%3D21590%26adid%3D16%26c%3D"
+                            }
+                        ],
+                        "_lastTransformedAt": "2024-09-18T12:29:14.027Z"
+                    }
+                ],
+                "moneyLine": [
+                    {
+                        "sourceFixture": {
+                            "fixtureId": "11060996",
+                            "sourceCompetitionId": "12282733"
+                        },
+                        "sourceMarketId": "33575909-754.98812585",
+                        "marketTypeId": "103",
+                        "name": "Moneyline",
+                        "sourceId": "8030",
+                        "isSuspended": false,
+                        "selections": [
+                            {
+                                "denominator": 50,
+                                "numerator": 51,
+                                "decimal": 2.02,
+                                "american": 102,
+                                "name": "Chicago Bears",
+                                "outcome": "Away",
+                                "price": "+102",
+                                "handicap": 0,
+                                "competitorId": "102222",
+                                "lookups": [],
+                                "sourceSelectionId": "33575909-754.98812585-50194",
+                                "link": "https://secure.adnxs.com/seg?t=2&add=27656765&redir=https%3A%2F%2Fssl.connextra.com%2FNFL%2Fselector%2Fclick%3Fclient%3DNFL%26placement%3DNFL_NFL_Fanduel_Mainlines_300x250_Tracker%26tclk%3Dhttps%3A%2F%2Fwlfanduelus.adsrv.eacdn.com%2FC.ashx%3Fbtag%3Da_21590b_16c_%26affid%3D14066%26siteid%3D21590%26adid%3D16%26c%3D"
+                            },
+                            {
+                                "denominator": 100,
+                                "numerator": 83,
+                                "decimal": 1.83,
+                                "american": -120,
+                                "name": "Indianapolis Colts",
+                                "outcome": "Home",
+                                "price": "-120",
+                                "handicap": 0,
+                                "competitorId": "105059",
+                                "lookups": [],
+                                "sourceSelectionId": "33575909-754.98812585-50200",
+                                "link": "https://secure.adnxs.com/seg?t=2&add=27656765&redir=https%3A%2F%2Fssl.connextra.com%2FNFL%2Fselector%2Fclick%3Fclient%3DNFL%26placement%3DNFL_NFL_Fanduel_Mainlines_300x250_Tracker%26tclk%3Dhttps%3A%2F%2Fwlfanduelus.adsrv.eacdn.com%2FC.ashx%3Fbtag%3Da_21590b_16c_%26affid%3D14066%26siteid%3D21590%26adid%3D16%26c%3D"
+                            }
+                        ],
+                        "_lastTransformedAt": "2024-09-18T12:29:14.027Z"
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Minnesota Vikings v Houston Texans",
+            "fixtureId": "11060993",
+            "scheduledStartTime": "2024-09-22T17:00:00+00:00",
+            "competitors": [
+                {
+                    "homeOrAway": "HOME",
+                    "competitorId": "86237",
+                    "officialName": "Minnesota Vikings",
+                    "firstName": "Minnesota",
+                    "secondName": "Vikings",
+                    "shortName": "Vikings",
+                    "abbreviation": "MIN",
+                    "brand": {
+                        "primaryColor": "#4F2683",
+                        "secondaryColor": "#FFC62F",
+                        "logo": {
+                            "svg": "https://gsm-shared-assets.betstream.betgenius.com/shared/assets/sports/american-football/competitors/logos/svg/86237.svg"
+                        }
+                    },
+                    "displayName": [
+                        "MIN"
+                    ]
+                },
+                {
+                    "homeOrAway": "AWAY",
+                    "competitorId": "104405",
+                    "officialName": "Houston Texans",
+                    "firstName": "Houston",
+                    "secondName": "Texans",
+                    "shortName": "Texans",
+                    "abbreviation": "HOU",
+                    "brand": {
+                        "primaryColor": "#021018",
+                        "secondaryColor": "#EB0028",
+                        "logo": {
+                            "svg": "https://gsm-shared-assets.betstream.betgenius.com/shared/assets/sports/american-football/competitors/logos/svg/104405.svg"
+                        }
+                    },
+                    "displayName": [
+                        "HOU"
+                    ]
+                }
+            ],
+            "competitionId": "296",
+            "roundName": "Week 3",
+            "venueName": "U.S. Bank Stadium",
+            "sportId": "17",
+            "matchSummaries": {
+                "awayScore": 0,
+                "fixtureId": "11060993",
+                "homeScore": 0,
+                "isReliable": false,
+                "matchStatus": "PreMatch",
+                "sourceId": "-13",
+                "inPlayStatus": "PreMatch",
+                "matchState": null,
+                "phase": "PreGame",
+                "priority": 0
+            },
+            "records": [],
+            "markets": {
+                "spread": [
+                    {
+                        "sourceFixture": {
+                            "fixtureId": "11060993",
+                            "sourceCompetitionId": "12282733"
+                        },
+                        "sourceMarketId": "33575922-754.98812915",
+                        "marketTypeId": "106",
+                        "name": "Spread",
+                        "sourceId": "8030",
+                        "isSuspended": false,
+                        "selections": [
+                            {
+                                "denominator": 100,
+                                "numerator": 87,
+                                "decimal": 1.87,
+                                "american": -115,
+                                "name": "Houston Texans",
+                                "outcome": "Away",
+                                "price": "-115",
+                                "handicap": -2.5,
+                                "competitorId": "104405",
+                                "lookups": [],
+                                "sourceSelectionId": "33575922-754.98812915-179823",
+                                "link": "https://secure.adnxs.com/seg?t=2&add=27656765&redir=https%3A%2F%2Fssl.connextra.com%2FNFL%2Fselector%2Fclick%3Fclient%3DNFL%26placement%3DNFL_NFL_Fanduel_Mainlines_300x250_Tracker%26tclk%3Dhttps%3A%2F%2Fwlfanduelus.adsrv.eacdn.com%2FC.ashx%3Fbtag%3Da_21590b_16c_%26affid%3D14066%26siteid%3D21590%26adid%3D16%26c%3D"
+                            },
+                            {
+                                "denominator": 20,
+                                "numerator": 19,
+                                "decimal": 1.95,
+                                "american": -105,
+                                "name": "Minnesota Vikings",
+                                "outcome": "Home",
+                                "price": "-105",
+                                "handicap": 2.5,
+                                "competitorId": "86237",
+                                "lookups": [],
+                                "sourceSelectionId": "33575922-754.98812915-50191",
+                                "link": "https://secure.adnxs.com/seg?t=2&add=27656765&redir=https%3A%2F%2Fssl.connextra.com%2FNFL%2Fselector%2Fclick%3Fclient%3DNFL%26placement%3DNFL_NFL_Fanduel_Mainlines_300x250_Tracker%26tclk%3Dhttps%3A%2F%2Fwlfanduelus.adsrv.eacdn.com%2FC.ashx%3Fbtag%3Da_21590b_16c_%26affid%3D14066%26siteid%3D21590%26adid%3D16%26c%3D"
+                            }
+                        ],
+                        "_lastTransformedAt": "2024-09-18T12:29:14.027Z"
+                    }
+                ],
+                "overUnder": [
+                    {
+                        "sourceFixture": {
+                            "fixtureId": "11060993",
+                            "sourceCompetitionId": "12282733"
+                        },
+                        "sourceMarketId": "33575922-754.98812916",
+                        "marketTypeId": "263",
+                        "name": "Total Match Points",
+                        "sourceId": "8030",
+                        "isSuspended": false,
+                        "selections": [
+                            {
+                                "denominator": 100,
+                                "numerator": 87,
+                                "decimal": 1.87,
+                                "american": -115,
+                                "name": "Over",
+                                "outcome": "Over",
+                                "price": "-115",
+                                "handicap": 45.5,
+                                "competitorId": null,
+                                "lookups": [],
+                                "sourceSelectionId": "33575922-754.98812916-7017916",
+                                "link": "https://secure.adnxs.com/seg?t=2&add=27656765&redir=https%3A%2F%2Fssl.connextra.com%2FNFL%2Fselector%2Fclick%3Fclient%3DNFL%26placement%3DNFL_NFL_Fanduel_Mainlines_300x250_Tracker%26tclk%3Dhttps%3A%2F%2Fwlfanduelus.adsrv.eacdn.com%2FC.ashx%3Fbtag%3Da_21590b_16c_%26affid%3D14066%26siteid%3D21590%26adid%3D16%26c%3D"
+                            },
+                            {
+                                "denominator": 20,
+                                "numerator": 19,
+                                "decimal": 1.95,
+                                "american": -105,
+                                "name": "Under",
+                                "outcome": "Under",
+                                "price": "-105",
+                                "handicap": 45.5,
+                                "competitorId": null,
+                                "lookups": [],
+                                "sourceSelectionId": "33575922-754.98812916-7017917",
+                                "link": "https://secure.adnxs.com/seg?t=2&add=27656765&redir=https%3A%2F%2Fssl.connextra.com%2FNFL%2Fselector%2Fclick%3Fclient%3DNFL%26placement%3DNFL_NFL_Fanduel_Mainlines_300x250_Tracker%26tclk%3Dhttps%3A%2F%2Fwlfanduelus.adsrv.eacdn.com%2FC.ashx%3Fbtag%3Da_21590b_16c_%26affid%3D14066%26siteid%3D21590%26adid%3D16%26c%3D"
+                            }
+                        ],
+                        "_lastTransformedAt": "2024-09-18T12:29:14.027Z"
+                    }
+                ],
+                "moneyLine": [
+                    {
+                        "sourceFixture": {
+                            "fixtureId": "11060993",
+                            "sourceCompetitionId": "12282733"
+                        },
+                        "sourceMarketId": "33575922-754.98812914",
+                        "marketTypeId": "103",
+                        "name": "Moneyline",
+                        "sourceId": "8030",
+                        "isSuspended": false,
+                        "selections": [
+                            {
+                                "denominator": 25,
+                                "numerator": 17,
+                                "decimal": 1.68,
+                                "american": -146,
+                                "name": "Houston Texans",
+                                "outcome": "Away",
+                                "price": "-146",
+                                "handicap": 0,
+                                "competitorId": "104405",
+                                "lookups": [],
+                                "sourceSelectionId": "33575922-754.98812914-179823",
+                                "link": "https://secure.adnxs.com/seg?t=2&add=27656765&redir=https%3A%2F%2Fssl.connextra.com%2FNFL%2Fselector%2Fclick%3Fclient%3DNFL%26placement%3DNFL_NFL_Fanduel_Mainlines_300x250_Tracker%26tclk%3Dhttps%3A%2F%2Fwlfanduelus.adsrv.eacdn.com%2FC.ashx%3Fbtag%3Da_21590b_16c_%26affid%3D14066%26siteid%3D21590%26adid%3D16%26c%3D"
+                            },
+                            {
+                                "denominator": 25,
+                                "numerator": 31,
+                                "decimal": 2.24,
+                                "american": 124,
+                                "name": "Minnesota Vikings",
+                                "outcome": "Home",
+                                "price": "+124",
+                                "handicap": 0,
+                                "competitorId": "86237",
+                                "lookups": [],
+                                "sourceSelectionId": "33575922-754.98812914-50191",
+                                "link": "https://secure.adnxs.com/seg?t=2&add=27656765&redir=https%3A%2F%2Fssl.connextra.com%2FNFL%2Fselector%2Fclick%3Fclient%3DNFL%26placement%3DNFL_NFL_Fanduel_Mainlines_300x250_Tracker%26tclk%3Dhttps%3A%2F%2Fwlfanduelus.adsrv.eacdn.com%2FC.ashx%3Fbtag%3Da_21590b_16c_%26affid%3D14066%26siteid%3D21590%26adid%3D16%26c%3D"
+                            }
+                        ],
+                        "_lastTransformedAt": "2024-09-18T12:29:14.027Z"
+                    }
+                ]
+            }
+        },
+        {
+            "name": "New Orleans Saints v Philadelphia Eagles",
+            "fixtureId": "11060994",
+            "scheduledStartTime": "2024-09-22T17:00:00+00:00",
+            "competitors": [
+                {
+                    "homeOrAway": "HOME",
+                    "competitorId": "119191",
+                    "officialName": "New Orleans Saints",
+                    "firstName": "New Orleans",
+                    "secondName": "Saints",
+                    "shortName": "Saints",
+                    "abbreviation": "NO",
+                    "brand": {
+                        "primaryColor": "#000000",
+                        "secondaryColor": "#D3BC8D",
+                        "logo": {
+                            "svg": "https://gsm-shared-assets.betstream.betgenius.com/shared/assets/sports/american-football/competitors/logos/svg/119191.svg"
+                        }
+                    },
+                    "displayName": [
+                        "NO"
+                    ]
+                },
+                {
+                    "homeOrAway": "AWAY",
+                    "competitorId": "89169",
+                    "officialName": "Philadelphia Eagles",
+                    "firstName": "Philadelphia",
+                    "secondName": "Eagles",
+                    "shortName": "Eagles",
+                    "abbreviation": "PHI",
+                    "brand": {
+                        "primaryColor": "#004851",
+                        "secondaryColor": "#A2AAAD",
+                        "logo": {
+                            "svg": "https://gsm-shared-assets.betstream.betgenius.com/shared/assets/sports/american-football/competitors/logos/svg/89169.svg"
+                        }
+                    },
+                    "displayName": [
+                        "PHI"
+                    ]
+                }
+            ],
+            "competitionId": "296",
+            "roundName": "Week 3",
+            "venueName": "Caesars Superdome",
+            "sportId": "17",
+            "matchSummaries": {
+                "awayScore": 0,
+                "fixtureId": "11060994",
+                "homeScore": 0,
+                "isReliable": false,
+                "matchStatus": "PreMatch",
+                "sourceId": "-13",
+                "inPlayStatus": "PreMatch",
+                "matchState": null,
+                "phase": "PreGame",
+                "priority": 0
+            },
+            "records": [],
+            "markets": {
+                "spread": [
+                    {
+                        "sourceFixture": {
+                            "fixtureId": "11060994",
+                            "sourceCompetitionId": "12282733"
+                        },
+                        "sourceMarketId": "33575926-754.98813135",
+                        "marketTypeId": "106",
+                        "name": "Spread",
+                        "sourceId": "8030",
+                        "isSuspended": false,
+                        "selections": [
+                            {
+                                "denominator": 25,
+                                "numerator": 24,
+                                "decimal": 1.96,
+                                "american": -104,
+                                "name": "Philadelphia Eagles",
+                                "outcome": "Away",
+                                "price": "-104",
+                                "handicap": 2.5,
+                                "competitorId": "89169",
+                                "lookups": [],
+                                "sourceSelectionId": "33575926-754.98813135-50186",
+                                "link": "https://secure.adnxs.com/seg?t=2&add=27656765&redir=https%3A%2F%2Fssl.connextra.com%2FNFL%2Fselector%2Fclick%3Fclient%3DNFL%26placement%3DNFL_NFL_Fanduel_Mainlines_300x250_Tracker%26tclk%3Dhttps%3A%2F%2Fwlfanduelus.adsrv.eacdn.com%2FC.ashx%3Fbtag%3Da_21590b_16c_%26affid%3D14066%26siteid%3D21590%26adid%3D16%26c%3D"
+                            },
+                            {
+                                "denominator": 20,
+                                "numerator": 17,
+                                "decimal": 1.85,
+                                "american": -118,
+                                "name": "New Orleans Saints",
+                                "outcome": "Home",
+                                "price": "-118",
+                                "handicap": -2.5,
+                                "competitorId": "119191",
+                                "lookups": [],
+                                "sourceSelectionId": "33575926-754.98813135-50196",
+                                "link": "https://secure.adnxs.com/seg?t=2&add=27656765&redir=https%3A%2F%2Fssl.connextra.com%2FNFL%2Fselector%2Fclick%3Fclient%3DNFL%26placement%3DNFL_NFL_Fanduel_Mainlines_300x250_Tracker%26tclk%3Dhttps%3A%2F%2Fwlfanduelus.adsrv.eacdn.com%2FC.ashx%3Fbtag%3Da_21590b_16c_%26affid%3D14066%26siteid%3D21590%26adid%3D16%26c%3D"
+                            }
+                        ],
+                        "_lastTransformedAt": "2024-09-18T12:29:14.027Z"
+                    }
+                ],
+                "overUnder": [
+                    {
+                        "sourceFixture": {
+                            "fixtureId": "11060994",
+                            "sourceCompetitionId": "12282733"
+                        },
+                        "sourceMarketId": "33575926-754.98813137",
+                        "marketTypeId": "263",
+                        "name": "Total Match Points",
+                        "sourceId": "8030",
+                        "isSuspended": false,
+                        "selections": [
+                            {
+                                "denominator": 20,
+                                "numerator": 19,
+                                "decimal": 1.95,
+                                "american": -105,
+                                "name": "Over",
+                                "outcome": "Over",
+                                "price": "-105",
+                                "handicap": 49.5,
+                                "competitorId": null,
+                                "lookups": [],
+                                "sourceSelectionId": "33575926-754.98813137-7017916",
+                                "link": "https://secure.adnxs.com/seg?t=2&add=27656765&redir=https%3A%2F%2Fssl.connextra.com%2FNFL%2Fselector%2Fclick%3Fclient%3DNFL%26placement%3DNFL_NFL_Fanduel_Mainlines_300x250_Tracker%26tclk%3Dhttps%3A%2F%2Fwlfanduelus.adsrv.eacdn.com%2FC.ashx%3Fbtag%3Da_21590b_16c_%26affid%3D14066%26siteid%3D21590%26adid%3D16%26c%3D"
+                            },
+                            {
+                                "denominator": 100,
+                                "numerator": 87,
+                                "decimal": 1.87,
+                                "american": -115,
+                                "name": "Under",
+                                "outcome": "Under",
+                                "price": "-115",
+                                "handicap": 49.5,
+                                "competitorId": null,
+                                "lookups": [],
+                                "sourceSelectionId": "33575926-754.98813137-7017917",
+                                "link": "https://secure.adnxs.com/seg?t=2&add=27656765&redir=https%3A%2F%2Fssl.connextra.com%2FNFL%2Fselector%2Fclick%3Fclient%3DNFL%26placement%3DNFL_NFL_Fanduel_Mainlines_300x250_Tracker%26tclk%3Dhttps%3A%2F%2Fwlfanduelus.adsrv.eacdn.com%2FC.ashx%3Fbtag%3Da_21590b_16c_%26affid%3D14066%26siteid%3D21590%26adid%3D16%26c%3D"
+                            }
+                        ],
+                        "_lastTransformedAt": "2024-09-18T12:29:14.027Z"
+                    }
+                ],
+                "moneyLine": [
+                    {
+                        "sourceFixture": {
+                            "fixtureId": "11060994",
+                            "sourceCompetitionId": "12282733"
+                        },
+                        "sourceMarketId": "33575926-754.98813136",
+                        "marketTypeId": "103",
+                        "name": "Moneyline",
+                        "sourceId": "8030",
+                        "isSuspended": false,
+                        "selections": [
+                            {
+                                "denominator": 25,
+                                "numerator": 32,
+                                "decimal": 2.28,
+                                "american": 128,
+                                "name": "Philadelphia Eagles",
+                                "outcome": "Away",
+                                "price": "+128",
+                                "handicap": 0,
+                                "competitorId": "89169",
+                                "lookups": [],
+                                "sourceSelectionId": "33575926-754.98813136-50186",
+                                "link": "https://secure.adnxs.com/seg?t=2&add=27656765&redir=https%3A%2F%2Fssl.connextra.com%2FNFL%2Fselector%2Fclick%3Fclient%3DNFL%26placement%3DNFL_NFL_Fanduel_Mainlines_300x250_Tracker%26tclk%3Dhttps%3A%2F%2Fwlfanduelus.adsrv.eacdn.com%2FC.ashx%3Fbtag%3Da_21590b_16c_%26affid%3D14066%26siteid%3D21590%26adid%3D16%26c%3D"
+                            },
+                            {
+                                "denominator": 50,
+                                "numerator": 33,
+                                "decimal": 1.66,
+                                "american": -152,
+                                "name": "New Orleans Saints",
+                                "outcome": "Home",
+                                "price": "-152",
+                                "handicap": 0,
+                                "competitorId": "119191",
+                                "lookups": [],
+                                "sourceSelectionId": "33575926-754.98813136-50196",
+                                "link": "https://secure.adnxs.com/seg?t=2&add=27656765&redir=https%3A%2F%2Fssl.connextra.com%2FNFL%2Fselector%2Fclick%3Fclient%3DNFL%26placement%3DNFL_NFL_Fanduel_Mainlines_300x250_Tracker%26tclk%3Dhttps%3A%2F%2Fwlfanduelus.adsrv.eacdn.com%2FC.ashx%3Fbtag%3Da_21590b_16c_%26affid%3D14066%26siteid%3D21590%26adid%3D16%26c%3D"
+                            }
+                        ],
+                        "_lastTransformedAt": "2024-09-18T12:29:14.027Z"
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Pittsburgh Steelers v Los Angeles Chargers",
+            "fixtureId": "11060997",
+            "scheduledStartTime": "2024-09-22T17:00:00+00:00",
+            "competitors": [
+                {
+                    "homeOrAway": "HOME",
+                    "competitorId": "89402",
+                    "officialName": "Pittsburgh Steelers",
+                    "firstName": "Pittsburgh",
+                    "secondName": "Steelers",
+                    "shortName": "Steelers",
+                    "abbreviation": "PIT",
+                    "brand": {
+                        "primaryColor": "#FFB612",
+                        "secondaryColor": "#FFB612",
+                        "logo": {
+                            "svg": "https://gsm-shared-assets.betstream.betgenius.com/shared/assets/sports/american-football/competitors/logos/svg/89402.svg"
+                        }
+                    },
+                    "displayName": [
+                        "PIT"
+                    ]
+                },
+                {
+                    "homeOrAway": "AWAY",
+                    "competitorId": "106518",
+                    "officialName": "Los Angeles Chargers",
+                    "firstName": "Los Angeles",
+                    "secondName": "Chargers",
+                    "shortName": "Chargers",
+                    "abbreviation": "LAC",
+                    "brand": {
+                        "primaryColor": "#0080C6",
+                        "secondaryColor": "#FFC20E",
+                        "logo": {
+                            "svg": "https://gsm-shared-assets.betstream.betgenius.com/shared/assets/sports/american-football/competitors/logos/svg/106518.svg"
+                        }
+                    },
+                    "displayName": [
+                        "LAC"
+                    ]
+                }
+            ],
+            "competitionId": "296",
+            "roundName": "Week 3",
+            "venueName": "Acrisure Stadium",
+            "sportId": "17",
+            "matchSummaries": {
+                "awayScore": 0,
+                "fixtureId": "11060997",
+                "homeScore": 0,
+                "isReliable": false,
+                "matchStatus": "PreMatch",
+                "sourceId": "-13",
+                "inPlayStatus": "PreMatch",
+                "matchState": null,
+                "phase": "PreGame",
+                "priority": 0
+            },
+            "records": [],
+            "markets": {
+                "spread": [
+                    {
+                        "sourceFixture": {
+                            "fixtureId": "11060997",
+                            "sourceCompetitionId": "12282733"
+                        },
+                        "sourceMarketId": "33575947-754.98813518",
+                        "marketTypeId": "106",
+                        "name": "Spread",
+                        "sourceId": "8030",
+                        "isSuspended": false,
+                        "selections": [
+                            {
+                                "denominator": 100,
+                                "numerator": 89,
+                                "decimal": 1.89,
+                                "american": -112,
+                                "name": "Los Angeles Chargers",
+                                "outcome": "Away",
+                                "price": "-112",
+                                "handicap": 1.5,
+                                "competitorId": "106518",
+                                "lookups": [],
+                                "sourceSelectionId": "33575947-754.98813518-12481798",
+                                "link": "https://secure.adnxs.com/seg?t=2&add=27656765&redir=https%3A%2F%2Fssl.connextra.com%2FNFL%2Fselector%2Fclick%3Fclient%3DNFL%26placement%3DNFL_NFL_Fanduel_Mainlines_300x250_Tracker%26tclk%3Dhttps%3A%2F%2Fwlfanduelus.adsrv.eacdn.com%2FC.ashx%3Fbtag%3Da_21590b_16c_%26affid%3D14066%26siteid%3D21590%26adid%3D16%26c%3D"
+                            },
+                            {
+                                "denominator": 100,
+                                "numerator": 93,
+                                "decimal": 1.93,
+                                "american": -108,
+                                "name": "Pittsburgh Steelers",
+                                "outcome": "Home",
+                                "price": "-108",
+                                "handicap": -1.5,
+                                "competitorId": "89402",
+                                "lookups": [],
+                                "sourceSelectionId": "33575947-754.98813518-50208",
+                                "link": "https://secure.adnxs.com/seg?t=2&add=27656765&redir=https%3A%2F%2Fssl.connextra.com%2FNFL%2Fselector%2Fclick%3Fclient%3DNFL%26placement%3DNFL_NFL_Fanduel_Mainlines_300x250_Tracker%26tclk%3Dhttps%3A%2F%2Fwlfanduelus.adsrv.eacdn.com%2FC.ashx%3Fbtag%3Da_21590b_16c_%26affid%3D14066%26siteid%3D21590%26adid%3D16%26c%3D"
+                            }
+                        ],
+                        "_lastTransformedAt": "2024-09-18T12:29:14.027Z"
+                    }
+                ],
+                "overUnder": [
+                    {
+                        "sourceFixture": {
+                            "fixtureId": "11060997",
+                            "sourceCompetitionId": "12282733"
+                        },
+                        "sourceMarketId": "33575947-754.98813517",
+                        "marketTypeId": "263",
+                        "name": "Total Match Points",
+                        "sourceId": "8030",
+                        "isSuspended": false,
+                        "selections": [
+                            {
+                                "denominator": 100,
+                                "numerator": 89,
+                                "decimal": 1.89,
+                                "american": -112,
+                                "name": "Over",
+                                "outcome": "Over",
+                                "price": "-112",
+                                "handicap": 35.5,
+                                "competitorId": null,
+                                "lookups": [],
+                                "sourceSelectionId": "33575947-754.98813517-7017916",
+                                "link": "https://secure.adnxs.com/seg?t=2&add=27656765&redir=https%3A%2F%2Fssl.connextra.com%2FNFL%2Fselector%2Fclick%3Fclient%3DNFL%26placement%3DNFL_NFL_Fanduel_Mainlines_300x250_Tracker%26tclk%3Dhttps%3A%2F%2Fwlfanduelus.adsrv.eacdn.com%2FC.ashx%3Fbtag%3Da_21590b_16c_%26affid%3D14066%26siteid%3D21590%26adid%3D16%26c%3D"
+                            },
+                            {
+                                "denominator": 100,
+                                "numerator": 93,
+                                "decimal": 1.93,
+                                "american": -108,
+                                "name": "Under",
+                                "outcome": "Under",
+                                "price": "-108",
+                                "handicap": 35.5,
+                                "competitorId": null,
+                                "lookups": [],
+                                "sourceSelectionId": "33575947-754.98813517-7017917",
+                                "link": "https://secure.adnxs.com/seg?t=2&add=27656765&redir=https%3A%2F%2Fssl.connextra.com%2FNFL%2Fselector%2Fclick%3Fclient%3DNFL%26placement%3DNFL_NFL_Fanduel_Mainlines_300x250_Tracker%26tclk%3Dhttps%3A%2F%2Fwlfanduelus.adsrv.eacdn.com%2FC.ashx%3Fbtag%3Da_21590b_16c_%26affid%3D14066%26siteid%3D21590%26adid%3D16%26c%3D"
+                            }
+                        ],
+                        "_lastTransformedAt": "2024-09-18T12:29:14.027Z"
+                    }
+                ],
+                "moneyLine": [
+                    {
+                        "sourceFixture": {
+                            "fixtureId": "11060997",
+                            "sourceCompetitionId": "12282733"
+                        },
+                        "sourceMarketId": "33575947-754.98813515",
+                        "marketTypeId": "103",
+                        "name": "Moneyline",
+                        "sourceId": "8030",
+                        "isSuspended": false,
+                        "selections": [
+                            {
+                                "denominator": 50,
+                                "numerator": 51,
+                                "decimal": 2.02,
+                                "american": 102,
+                                "name": "Los Angeles Chargers",
+                                "outcome": "Away",
+                                "price": "+102",
+                                "handicap": 0,
+                                "competitorId": "106518",
+                                "lookups": [],
+                                "sourceSelectionId": "33575947-754.98813515-12481798",
+                                "link": "https://secure.adnxs.com/seg?t=2&add=27656765&redir=https%3A%2F%2Fssl.connextra.com%2FNFL%2Fselector%2Fclick%3Fclient%3DNFL%26placement%3DNFL_NFL_Fanduel_Mainlines_300x250_Tracker%26tclk%3Dhttps%3A%2F%2Fwlfanduelus.adsrv.eacdn.com%2FC.ashx%3Fbtag%3Da_21590b_16c_%26affid%3D14066%26siteid%3D21590%26adid%3D16%26c%3D"
+                            },
+                            {
+                                "denominator": 100,
+                                "numerator": 83,
+                                "decimal": 1.83,
+                                "american": -120,
+                                "name": "Pittsburgh Steelers",
+                                "outcome": "Home",
+                                "price": "-120",
+                                "handicap": 0,
+                                "competitorId": "89402",
+                                "lookups": [],
+                                "sourceSelectionId": "33575947-754.98813515-50208",
+                                "link": "https://secure.adnxs.com/seg?t=2&add=27656765&redir=https%3A%2F%2Fssl.connextra.com%2FNFL%2Fselector%2Fclick%3Fclient%3DNFL%26placement%3DNFL_NFL_Fanduel_Mainlines_300x250_Tracker%26tclk%3Dhttps%3A%2F%2Fwlfanduelus.adsrv.eacdn.com%2FC.ashx%3Fbtag%3Da_21590b_16c_%26affid%3D14066%26siteid%3D21590%26adid%3D16%26c%3D"
+                            }
+                        ],
+                        "_lastTransformedAt": "2024-09-18T12:29:14.027Z"
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Tampa Bay Buccaneers v Denver Broncos",
+            "fixtureId": "11060998",
+            "scheduledStartTime": "2024-09-22T17:00:00+00:00",
+            "competitors": [
+                {
+                    "homeOrAway": "HOME",
+                    "competitorId": "92305",
+                    "officialName": "Tampa Bay Buccaneers",
+                    "firstName": "Tampa Bay",
+                    "secondName": "Buccaneers",
+                    "shortName": "Buccaneers",
+                    "abbreviation": "TB",
+                    "brand": {
+                        "primaryColor": "#871930",
+                        "secondaryColor": "#322F2B",
+                        "logo": {
+                            "svg": "https://gsm-shared-assets.betstream.betgenius.com/shared/assets/sports/american-football/competitors/logos/svg/92305.svg"
+                        }
+                    },
+                    "displayName": [
+                        "TB"
+                    ]
+                },
+                {
+                    "homeOrAway": "AWAY",
+                    "competitorId": "82865",
+                    "officialName": "Denver Broncos",
+                    "firstName": "Denver",
+                    "secondName": "Broncos",
+                    "shortName": "Broncos",
+                    "abbreviation": "DEN",
+                    "brand": {
+                        "primaryColor": "#FC4C02",
+                        "secondaryColor": "#0A2343",
+                        "logo": {
+                            "svg": "https://gsm-shared-assets.betstream.betgenius.com/shared/assets/sports/american-football/competitors/logos/svg/82865.svg"
+                        }
+                    },
+                    "displayName": [
+                        "DEN"
+                    ]
+                }
+            ],
+            "competitionId": "296",
+            "roundName": "Week 3",
+            "venueName": "Raymond James Stadium",
+            "sportId": "17",
+            "matchSummaries": {
+                "awayScore": 0,
+                "fixtureId": "11060998",
+                "homeScore": 0,
+                "isReliable": false,
+                "matchStatus": "PreMatch",
+                "sourceId": "-13",
+                "inPlayStatus": "PreMatch",
+                "matchState": null,
+                "phase": "PreGame",
+                "priority": 0
+            },
+            "records": [],
+            "markets": {
+                "spread": [
+                    {
+                        "sourceFixture": {
+                            "fixtureId": "11060998",
+                            "sourceCompetitionId": "12282733"
+                        },
+                        "sourceMarketId": "33575964-754.98813702",
+                        "marketTypeId": "106",
+                        "name": "Spread",
+                        "sourceId": "8030",
+                        "isSuspended": false,
+                        "selections": [
+                            {
+                                "denominator": 100,
+                                "numerator": 91,
+                                "decimal": 1.91,
+                                "american": -110,
+                                "name": "Denver Broncos",
+                                "outcome": "Away",
+                                "price": "-110",
+                                "handicap": 6.5,
+                                "competitorId": "82865",
+                                "lookups": [],
+                                "sourceSelectionId": "33575964-754.98813702-50211",
+                                "link": "https://secure.adnxs.com/seg?t=2&add=27656765&redir=https%3A%2F%2Fssl.connextra.com%2FNFL%2Fselector%2Fclick%3Fclient%3DNFL%26placement%3DNFL_NFL_Fanduel_Mainlines_300x250_Tracker%26tclk%3Dhttps%3A%2F%2Fwlfanduelus.adsrv.eacdn.com%2FC.ashx%3Fbtag%3Da_21590b_16c_%26affid%3D14066%26siteid%3D21590%26adid%3D16%26c%3D"
+                            },
+                            {
+                                "denominator": 100,
+                                "numerator": 91,
+                                "decimal": 1.91,
+                                "american": -110,
+                                "name": "Tampa Bay Buccaneers",
+                                "outcome": "Home",
+                                "price": "-110",
+                                "handicap": -6.5,
+                                "competitorId": "92305",
+                                "lookups": [],
+                                "sourceSelectionId": "33575964-754.98813702-50190",
+                                "link": "https://secure.adnxs.com/seg?t=2&add=27656765&redir=https%3A%2F%2Fssl.connextra.com%2FNFL%2Fselector%2Fclick%3Fclient%3DNFL%26placement%3DNFL_NFL_Fanduel_Mainlines_300x250_Tracker%26tclk%3Dhttps%3A%2F%2Fwlfanduelus.adsrv.eacdn.com%2FC.ashx%3Fbtag%3Da_21590b_16c_%26affid%3D14066%26siteid%3D21590%26adid%3D16%26c%3D"
+                            }
+                        ],
+                        "_lastTransformedAt": "2024-09-18T12:29:14.027Z"
+                    }
+                ],
+                "overUnder": [
+                    {
+                        "sourceFixture": {
+                            "fixtureId": "11060998",
+                            "sourceCompetitionId": "12282733"
+                        },
+                        "sourceMarketId": "33575964-754.98813703",
+                        "marketTypeId": "263",
+                        "name": "Total Match Points",
+                        "sourceId": "8030",
+                        "isSuspended": false,
+                        "selections": [
+                            {
+                                "denominator": 100,
+                                "numerator": 87,
+                                "decimal": 1.87,
+                                "american": -115,
+                                "name": "Over",
+                                "outcome": "Over",
+                                "price": "-115",
+                                "handicap": 39.5,
+                                "competitorId": null,
+                                "lookups": [],
+                                "sourceSelectionId": "33575964-754.98813703-7017916",
+                                "link": "https://secure.adnxs.com/seg?t=2&add=27656765&redir=https%3A%2F%2Fssl.connextra.com%2FNFL%2Fselector%2Fclick%3Fclient%3DNFL%26placement%3DNFL_NFL_Fanduel_Mainlines_300x250_Tracker%26tclk%3Dhttps%3A%2F%2Fwlfanduelus.adsrv.eacdn.com%2FC.ashx%3Fbtag%3Da_21590b_16c_%26affid%3D14066%26siteid%3D21590%26adid%3D16%26c%3D"
+                            },
+                            {
+                                "denominator": 20,
+                                "numerator": 19,
+                                "decimal": 1.95,
+                                "american": -105,
+                                "name": "Under",
+                                "outcome": "Under",
+                                "price": "-105",
+                                "handicap": 39.5,
+                                "competitorId": null,
+                                "lookups": [],
+                                "sourceSelectionId": "33575964-754.98813703-7017917",
+                                "link": "https://secure.adnxs.com/seg?t=2&add=27656765&redir=https%3A%2F%2Fssl.connextra.com%2FNFL%2Fselector%2Fclick%3Fclient%3DNFL%26placement%3DNFL_NFL_Fanduel_Mainlines_300x250_Tracker%26tclk%3Dhttps%3A%2F%2Fwlfanduelus.adsrv.eacdn.com%2FC.ashx%3Fbtag%3Da_21590b_16c_%26affid%3D14066%26siteid%3D21590%26adid%3D16%26c%3D"
+                            }
+                        ],
+                        "_lastTransformedAt": "2024-09-18T12:29:14.027Z"
+                    }
+                ],
+                "moneyLine": [
+                    {
+                        "sourceFixture": {
+                            "fixtureId": "11060998",
+                            "sourceCompetitionId": "12282733"
+                        },
+                        "sourceMarketId": "33575964-754.98813704",
+                        "marketTypeId": "103",
+                        "name": "Moneyline",
+                        "sourceId": "8030",
+                        "isSuspended": false,
+                        "selections": [
+                            {
+                                "denominator": 5,
+                                "numerator": 13,
+                                "decimal": 3.6,
+                                "american": 260,
+                                "name": "Denver Broncos",
+                                "outcome": "Away",
+                                "price": "+260",
+                                "handicap": 0,
+                                "competitorId": "82865",
+                                "lookups": [],
+                                "sourceSelectionId": "33575964-754.98813704-50211",
+                                "link": "https://secure.adnxs.com/seg?t=2&add=27656765&redir=https%3A%2F%2Fssl.connextra.com%2FNFL%2Fselector%2Fclick%3Fclient%3DNFL%26placement%3DNFL_NFL_Fanduel_Mainlines_300x250_Tracker%26tclk%3Dhttps%3A%2F%2Fwlfanduelus.adsrv.eacdn.com%2FC.ashx%3Fbtag%3Da_21590b_16c_%26affid%3D14066%26siteid%3D21590%26adid%3D16%26c%3D"
+                            },
+                            {
+                                "denominator": 100,
+                                "numerator": 31,
+                                "decimal": 1.31,
+                                "american": -320,
+                                "name": "Tampa Bay Buccaneers",
+                                "outcome": "Home",
+                                "price": "-320",
+                                "handicap": 0,
+                                "competitorId": "92305",
+                                "lookups": [],
+                                "sourceSelectionId": "33575964-754.98813704-50190",
+                                "link": "https://secure.adnxs.com/seg?t=2&add=27656765&redir=https%3A%2F%2Fssl.connextra.com%2FNFL%2Fselector%2Fclick%3Fclient%3DNFL%26placement%3DNFL_NFL_Fanduel_Mainlines_300x250_Tracker%26tclk%3Dhttps%3A%2F%2Fwlfanduelus.adsrv.eacdn.com%2FC.ashx%3Fbtag%3Da_21590b_16c_%26affid%3D14066%26siteid%3D21590%26adid%3D16%26c%3D"
+                            }
+                        ],
+                        "_lastTransformedAt": "2024-09-18T12:29:14.027Z"
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Tennessee Titans v Green Bay Packers",
+            "fixtureId": "11060995",
+            "scheduledStartTime": "2024-09-22T17:00:00+00:00",
+            "competitors": [
+                {
+                    "homeOrAway": "HOME",
+                    "competitorId": "121182",
+                    "officialName": "Tennessee Titans",
+                    "firstName": "Tennessee",
+                    "secondName": "Titans",
+                    "shortName": "Titans",
+                    "abbreviation": "TEN",
+                    "brand": {
+                        "primaryColor": "#002244",
+                        "secondaryColor": "#4B92DB",
+                        "logo": {
+                            "svg": "https://gsm-shared-assets.betstream.betgenius.com/shared/assets/sports/american-football/competitors/logos/svg/121182.svg"
+                        }
+                    },
+                    "displayName": [
+                        "TEN"
+                    ]
+                },
+                {
+                    "homeOrAway": "AWAY",
+                    "competitorId": "115649",
+                    "officialName": "Green Bay Packers",
+                    "firstName": "Green Bay",
+                    "secondName": "Packers",
+                    "shortName": "Packers",
+                    "abbreviation": "GB",
+                    "brand": {
+                        "primaryColor": "#203731",
+                        "secondaryColor": "#FFB612",
+                        "logo": {
+                            "svg": "https://gsm-shared-assets.betstream.betgenius.com/shared/assets/sports/american-football/competitors/logos/svg/115649.svg"
+                        }
+                    },
+                    "displayName": [
+                        "GB"
+                    ]
+                }
+            ],
+            "competitionId": "296",
+            "roundName": "Week 3",
+            "venueName": "Nissan Stadium",
+            "sportId": "17",
+            "matchSummaries": {
+                "awayScore": 0,
+                "fixtureId": "11060995",
+                "homeScore": 0,
+                "isReliable": false,
+                "matchStatus": "PreMatch",
+                "sourceId": "-13",
+                "inPlayStatus": "PreMatch",
+                "matchState": null,
+                "phase": "PreGame",
+                "priority": 0
+            },
+            "records": [],
+            "markets": {
+                "spread": [
+                    {
+                        "sourceFixture": {
+                            "fixtureId": "11060995",
+                            "sourceCompetitionId": "12282733"
+                        },
+                        "sourceMarketId": "33575978-754.98814104",
+                        "marketTypeId": "106",
+                        "name": "Spread",
+                        "sourceId": "8030",
+                        "isSuspended": false,
+                        "selections": [
+                            {
+                                "denominator": 50,
+                                "numerator": 49,
+                                "decimal": 1.98,
+                                "american": -102,
+                                "name": "Green Bay Packers",
+                                "outcome": "Away",
+                                "price": "-102",
+                                "handicap": 2.5,
+                                "competitorId": "115649",
+                                "lookups": [],
+                                "sourceSelectionId": "33575978-754.98814104-50192",
+                                "link": "https://secure.adnxs.com/seg?t=2&add=27656765&redir=https%3A%2F%2Fssl.connextra.com%2FNFL%2Fselector%2Fclick%3Fclient%3DNFL%26placement%3DNFL_NFL_Fanduel_Mainlines_300x250_Tracker%26tclk%3Dhttps%3A%2F%2Fwlfanduelus.adsrv.eacdn.com%2FC.ashx%3Fbtag%3Da_21590b_16c_%26affid%3D14066%26siteid%3D21590%26adid%3D16%26c%3D"
+                            },
+                            {
+                                "denominator": 100,
+                                "numerator": 83,
+                                "decimal": 1.83,
+                                "american": -120,
+                                "name": "Tennessee Titans",
+                                "outcome": "Home",
+                                "price": "-120",
+                                "handicap": -2.5,
+                                "competitorId": "121182",
+                                "lookups": [],
+                                "sourceSelectionId": "33575978-754.98814104-50206",
+                                "link": "https://secure.adnxs.com/seg?t=2&add=27656765&redir=https%3A%2F%2Fssl.connextra.com%2FNFL%2Fselector%2Fclick%3Fclient%3DNFL%26placement%3DNFL_NFL_Fanduel_Mainlines_300x250_Tracker%26tclk%3Dhttps%3A%2F%2Fwlfanduelus.adsrv.eacdn.com%2FC.ashx%3Fbtag%3Da_21590b_16c_%26affid%3D14066%26siteid%3D21590%26adid%3D16%26c%3D"
+                            }
+                        ],
+                        "_lastTransformedAt": "2024-09-18T12:29:14.027Z"
+                    }
+                ],
+                "overUnder": [
+                    {
+                        "sourceFixture": {
+                            "fixtureId": "11060995",
+                            "sourceCompetitionId": "12282733"
+                        },
+                        "sourceMarketId": "33575978-754.98814105",
+                        "marketTypeId": "263",
+                        "name": "Total Match Points",
+                        "sourceId": "8030",
+                        "isSuspended": false,
+                        "selections": [
+                            {
+                                "denominator": 100,
+                                "numerator": 91,
+                                "decimal": 1.91,
+                                "american": -110,
+                                "name": "Over",
+                                "outcome": "Over",
+                                "price": "-110",
+                                "handicap": 36.5,
+                                "competitorId": null,
+                                "lookups": [],
+                                "sourceSelectionId": "33575978-754.98814105-7017916",
+                                "link": "https://secure.adnxs.com/seg?t=2&add=27656765&redir=https%3A%2F%2Fssl.connextra.com%2FNFL%2Fselector%2Fclick%3Fclient%3DNFL%26placement%3DNFL_NFL_Fanduel_Mainlines_300x250_Tracker%26tclk%3Dhttps%3A%2F%2Fwlfanduelus.adsrv.eacdn.com%2FC.ashx%3Fbtag%3Da_21590b_16c_%26affid%3D14066%26siteid%3D21590%26adid%3D16%26c%3D"
+                            },
+                            {
+                                "denominator": 100,
+                                "numerator": 91,
+                                "decimal": 1.91,
+                                "american": -110,
+                                "name": "Under",
+                                "outcome": "Under",
+                                "price": "-110",
+                                "handicap": 36.5,
+                                "competitorId": null,
+                                "lookups": [],
+                                "sourceSelectionId": "33575978-754.98814105-7017917",
+                                "link": "https://secure.adnxs.com/seg?t=2&add=27656765&redir=https%3A%2F%2Fssl.connextra.com%2FNFL%2Fselector%2Fclick%3Fclient%3DNFL%26placement%3DNFL_NFL_Fanduel_Mainlines_300x250_Tracker%26tclk%3Dhttps%3A%2F%2Fwlfanduelus.adsrv.eacdn.com%2FC.ashx%3Fbtag%3Da_21590b_16c_%26affid%3D14066%26siteid%3D21590%26adid%3D16%26c%3D"
+                            }
+                        ],
+                        "_lastTransformedAt": "2024-09-18T12:29:14.027Z"
+                    }
+                ],
+                "moneyLine": [
+                    {
+                        "sourceFixture": {
+                            "fixtureId": "11060995",
+                            "sourceCompetitionId": "12282733"
+                        },
+                        "sourceMarketId": "33575978-754.98814106",
+                        "marketTypeId": "103",
+                        "name": "Moneyline",
+                        "sourceId": "8030",
+                        "isSuspended": false,
+                        "selections": [
+                            {
+                                "denominator": 50,
+                                "numerator": 67,
+                                "decimal": 2.34,
+                                "american": 134,
+                                "name": "Green Bay Packers",
+                                "outcome": "Away",
+                                "price": "+134",
+                                "handicap": 0,
+                                "competitorId": "115649",
+                                "lookups": [],
+                                "sourceSelectionId": "33575978-754.98814106-50192",
+                                "link": "https://secure.adnxs.com/seg?t=2&add=27656765&redir=https%3A%2F%2Fssl.connextra.com%2FNFL%2Fselector%2Fclick%3Fclient%3DNFL%26placement%3DNFL_NFL_Fanduel_Mainlines_300x250_Tracker%26tclk%3Dhttps%3A%2F%2Fwlfanduelus.adsrv.eacdn.com%2FC.ashx%3Fbtag%3Da_21590b_16c_%26affid%3D14066%26siteid%3D21590%26adid%3D16%26c%3D"
+                            },
+                            {
+                                "denominator": 100,
+                                "numerator": 63,
+                                "decimal": 1.63,
+                                "american": -158,
+                                "name": "Tennessee Titans",
+                                "outcome": "Home",
+                                "price": "-158",
+                                "handicap": 0,
+                                "competitorId": "121182",
+                                "lookups": [],
+                                "sourceSelectionId": "33575978-754.98814106-50206",
+                                "link": "https://secure.adnxs.com/seg?t=2&add=27656765&redir=https%3A%2F%2Fssl.connextra.com%2FNFL%2Fselector%2Fclick%3Fclient%3DNFL%26placement%3DNFL_NFL_Fanduel_Mainlines_300x250_Tracker%26tclk%3Dhttps%3A%2F%2Fwlfanduelus.adsrv.eacdn.com%2FC.ashx%3Fbtag%3Da_21590b_16c_%26affid%3D14066%26siteid%3D21590%26adid%3D16%26c%3D"
+                            }
+                        ],
+                        "_lastTransformedAt": "2024-09-18T12:29:14.027Z"
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Las Vegas Raiders v Carolina Panthers",
+            "fixtureId": "11061001",
+            "scheduledStartTime": "2024-09-22T20:05:00+00:00",
+            "competitors": [
+                {
+                    "homeOrAway": "HOME",
+                    "competitorId": "119948",
+                    "officialName": "Las Vegas Raiders",
+                    "firstName": "Las Vegas",
+                    "secondName": "Raiders",
+                    "shortName": "Raiders",
+                    "abbreviation": "LV",
+                    "brand": {
+                        "primaryColor": "#000000",
+                        "secondaryColor": "#A5ACAF",
+                        "logo": {
+                            "svg": "https://gsm-shared-assets.betstream.betgenius.com/shared/assets/sports/american-football/competitors/logos/svg/119948.svg"
+                        }
+                    },
+                    "displayName": [
+                        "LV"
+                    ]
+                },
+                {
+                    "homeOrAway": "AWAY",
+                    "competitorId": "113372",
+                    "officialName": "Carolina Panthers",
+                    "firstName": "Carolina",
+                    "secondName": "Panthers",
+                    "shortName": "Panthers",
+                    "abbreviation": "CAR",
+                    "brand": {
+                        "primaryColor": "#0085CF",
+                        "secondaryColor": "#000000",
+                        "logo": {
+                            "svg": "https://gsm-shared-assets.betstream.betgenius.com/shared/assets/sports/american-football/competitors/logos/svg/113372.svg"
+                        }
+                    },
+                    "displayName": [
+                        "CAR"
+                    ]
+                }
+            ],
+            "competitionId": "296",
+            "roundName": "Week 3",
+            "venueName": "Allegiant Stadium",
+            "sportId": "17",
+            "matchSummaries": {
+                "awayScore": 0,
+                "fixtureId": "11061001",
+                "homeScore": 0,
+                "isReliable": false,
+                "matchStatus": "PreMatch",
+                "sourceId": "-13",
+                "inPlayStatus": "PreMatch",
+                "matchState": null,
+                "phase": "PreGame",
+                "priority": 0
+            },
+            "records": [],
+            "markets": {
+                "spread": [
+                    {
+                        "sourceFixture": {
+                            "fixtureId": "11061001",
+                            "sourceCompetitionId": "12282733"
+                        },
+                        "sourceMarketId": "33575985-754.98814335",
+                        "marketTypeId": "106",
+                        "name": "Spread",
+                        "sourceId": "8030",
+                        "isSuspended": false,
+                        "selections": [
+                            {
+                                "denominator": 100,
+                                "numerator": 91,
+                                "decimal": 1.91,
+                                "american": -110,
+                                "name": "Carolina Panthers",
+                                "outcome": "Away",
+                                "price": "-110",
+                                "handicap": 5.5,
+                                "competitorId": "113372",
+                                "lookups": [],
+                                "sourceSelectionId": "33575985-754.98814335-50198",
+                                "link": "https://secure.adnxs.com/seg?t=2&add=27656765&redir=https%3A%2F%2Fssl.connextra.com%2FNFL%2Fselector%2Fclick%3Fclient%3DNFL%26placement%3DNFL_NFL_Fanduel_Mainlines_300x250_Tracker%26tclk%3Dhttps%3A%2F%2Fwlfanduelus.adsrv.eacdn.com%2FC.ashx%3Fbtag%3Da_21590b_16c_%26affid%3D14066%26siteid%3D21590%26adid%3D16%26c%3D"
+                            },
+                            {
+                                "denominator": 100,
+                                "numerator": 91,
+                                "decimal": 1.91,
+                                "american": -110,
+                                "name": "Las Vegas Raiders",
+                                "outcome": "Home",
+                                "price": "-110",
+                                "handicap": -5.5,
+                                "competitorId": "119948",
+                                "lookups": [],
+                                "sourceSelectionId": "33575985-754.98814335-27443341",
+                                "link": "https://secure.adnxs.com/seg?t=2&add=27656765&redir=https%3A%2F%2Fssl.connextra.com%2FNFL%2Fselector%2Fclick%3Fclient%3DNFL%26placement%3DNFL_NFL_Fanduel_Mainlines_300x250_Tracker%26tclk%3Dhttps%3A%2F%2Fwlfanduelus.adsrv.eacdn.com%2FC.ashx%3Fbtag%3Da_21590b_16c_%26affid%3D14066%26siteid%3D21590%26adid%3D16%26c%3D"
+                            }
+                        ],
+                        "_lastTransformedAt": "2024-09-18T12:29:14.027Z"
+                    }
+                ],
+                "overUnder": [
+                    {
+                        "sourceFixture": {
+                            "fixtureId": "11061001",
+                            "sourceCompetitionId": "12282733"
+                        },
+                        "sourceMarketId": "33575985-754.98814336",
+                        "marketTypeId": "263",
+                        "name": "Total Match Points",
+                        "sourceId": "8030",
+                        "isSuspended": false,
+                        "selections": [
+                            {
+                                "denominator": 100,
+                                "numerator": 87,
+                                "decimal": 1.87,
+                                "american": -115,
+                                "name": "Over",
+                                "outcome": "Over",
+                                "price": "-115",
+                                "handicap": 40.5,
+                                "competitorId": null,
+                                "lookups": [],
+                                "sourceSelectionId": "33575985-754.98814336-7017916",
+                                "link": "https://secure.adnxs.com/seg?t=2&add=27656765&redir=https%3A%2F%2Fssl.connextra.com%2FNFL%2Fselector%2Fclick%3Fclient%3DNFL%26placement%3DNFL_NFL_Fanduel_Mainlines_300x250_Tracker%26tclk%3Dhttps%3A%2F%2Fwlfanduelus.adsrv.eacdn.com%2FC.ashx%3Fbtag%3Da_21590b_16c_%26affid%3D14066%26siteid%3D21590%26adid%3D16%26c%3D"
+                            },
+                            {
+                                "denominator": 20,
+                                "numerator": 19,
+                                "decimal": 1.95,
+                                "american": -105,
+                                "name": "Under",
+                                "outcome": "Under",
+                                "price": "-105",
+                                "handicap": 40.5,
+                                "competitorId": null,
+                                "lookups": [],
+                                "sourceSelectionId": "33575985-754.98814336-7017917",
+                                "link": "https://secure.adnxs.com/seg?t=2&add=27656765&redir=https%3A%2F%2Fssl.connextra.com%2FNFL%2Fselector%2Fclick%3Fclient%3DNFL%26placement%3DNFL_NFL_Fanduel_Mainlines_300x250_Tracker%26tclk%3Dhttps%3A%2F%2Fwlfanduelus.adsrv.eacdn.com%2FC.ashx%3Fbtag%3Da_21590b_16c_%26affid%3D14066%26siteid%3D21590%26adid%3D16%26c%3D"
+                            }
+                        ],
+                        "_lastTransformedAt": "2024-09-18T12:29:14.027Z"
+                    }
+                ],
+                "moneyLine": [
+                    {
+                        "sourceFixture": {
+                            "fixtureId": "11061001",
+                            "sourceCompetitionId": "12282733"
+                        },
+                        "sourceMarketId": "33575985-754.98814334",
+                        "marketTypeId": "103",
+                        "name": "Moneyline",
+                        "sourceId": "8030",
+                        "isSuspended": false,
+                        "selections": [
+                            {
+                                "denominator": 20,
+                                "numerator": 43,
+                                "decimal": 3.15,
+                                "american": 215,
+                                "name": "Carolina Panthers",
+                                "outcome": "Away",
+                                "price": "+215",
+                                "handicap": 0,
+                                "competitorId": "113372",
+                                "lookups": [],
+                                "sourceSelectionId": "33575985-754.98814334-50198",
+                                "link": "https://secure.adnxs.com/seg?t=2&add=27656765&redir=https%3A%2F%2Fssl.connextra.com%2FNFL%2Fselector%2Fclick%3Fclient%3DNFL%26placement%3DNFL_NFL_Fanduel_Mainlines_300x250_Tracker%26tclk%3Dhttps%3A%2F%2Fwlfanduelus.adsrv.eacdn.com%2FC.ashx%3Fbtag%3Da_21590b_16c_%26affid%3D14066%26siteid%3D21590%26adid%3D16%26c%3D"
+                            },
+                            {
+                                "denominator": 50,
+                                "numerator": 19,
+                                "decimal": 1.38,
+                                "american": -260,
+                                "name": "Las Vegas Raiders",
+                                "outcome": "Home",
+                                "price": "-260",
+                                "handicap": 0,
+                                "competitorId": "119948",
+                                "lookups": [],
+                                "sourceSelectionId": "33575985-754.98814334-27443341",
+                                "link": "https://secure.adnxs.com/seg?t=2&add=27656765&redir=https%3A%2F%2Fssl.connextra.com%2FNFL%2Fselector%2Fclick%3Fclient%3DNFL%26placement%3DNFL_NFL_Fanduel_Mainlines_300x250_Tracker%26tclk%3Dhttps%3A%2F%2Fwlfanduelus.adsrv.eacdn.com%2FC.ashx%3Fbtag%3Da_21590b_16c_%26affid%3D14066%26siteid%3D21590%26adid%3D16%26c%3D"
+                            }
+                        ],
+                        "_lastTransformedAt": "2024-09-18T12:29:14.027Z"
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Seattle Seahawks v Miami Dolphins",
+            "fixtureId": "11061000",
+            "scheduledStartTime": "2024-09-22T20:05:00+00:00",
+            "competitors": [
+                {
+                    "homeOrAway": "HOME",
+                    "competitorId": "90401",
+                    "officialName": "Seattle Seahawks",
+                    "firstName": "Seattle",
+                    "secondName": "Seahawks",
+                    "shortName": "Seahawks",
+                    "abbreviation": "SEA",
+                    "brand": {
+                        "primaryColor": "#002244",
+                        "secondaryColor": "#69BE28",
+                        "logo": {
+                            "svg": "https://gsm-shared-assets.betstream.betgenius.com/shared/assets/sports/american-football/competitors/logos/svg/90401.svg"
+                        }
+                    },
+                    "displayName": [
+                        "SEA"
+                    ]
+                },
+                {
+                    "homeOrAway": "AWAY",
+                    "competitorId": "100604",
+                    "officialName": "Miami Dolphins",
+                    "firstName": "Miami",
+                    "secondName": "Dolphins",
+                    "shortName": "Dolphins",
+                    "abbreviation": "MIA",
+                    "brand": {
+                        "primaryColor": "#008E97",
+                        "secondaryColor": "#FC4C02",
+                        "logo": {
+                            "svg": "https://gsm-shared-assets.betstream.betgenius.com/shared/assets/sports/american-football/competitors/logos/svg/100604.svg"
+                        }
+                    },
+                    "displayName": [
+                        "MIA"
+                    ]
+                }
+            ],
+            "competitionId": "296",
+            "roundName": "Week 3",
+            "venueName": "Lumen Field",
+            "sportId": "17",
+            "matchSummaries": {
+                "awayScore": 0,
+                "fixtureId": "11061000",
+                "homeScore": 0,
+                "isReliable": false,
+                "matchStatus": "PreMatch",
+                "sourceId": "-13",
+                "inPlayStatus": "PreMatch",
+                "matchState": null,
+                "phase": "PreGame",
+                "priority": 0
+            },
+            "records": [],
+            "markets": {
+                "spread": [
+                    {
+                        "sourceFixture": {
+                            "fixtureId": "11061000",
+                            "sourceCompetitionId": "12282733"
+                        },
+                        "sourceMarketId": "33575992-754.98814543",
+                        "marketTypeId": "106",
+                        "name": "Spread",
+                        "sourceId": "8030",
+                        "isSuspended": false,
+                        "selections": [
+                            {
+                                "denominator": 20,
+                                "numerator": 19,
+                                "decimal": 1.95,
+                                "american": -105,
+                                "name": "Miami Dolphins",
+                                "outcome": "Away",
+                                "price": "-105",
+                                "handicap": 4.5,
+                                "competitorId": "100604",
+                                "lookups": [],
+                                "sourceSelectionId": "33575992-754.98814543-50201",
+                                "link": "https://secure.adnxs.com/seg?t=2&add=27656765&redir=https%3A%2F%2Fssl.connextra.com%2FNFL%2Fselector%2Fclick%3Fclient%3DNFL%26placement%3DNFL_NFL_Fanduel_Mainlines_300x250_Tracker%26tclk%3Dhttps%3A%2F%2Fwlfanduelus.adsrv.eacdn.com%2FC.ashx%3Fbtag%3Da_21590b_16c_%26affid%3D14066%26siteid%3D21590%26adid%3D16%26c%3D"
+                            },
+                            {
+                                "denominator": 100,
+                                "numerator": 87,
+                                "decimal": 1.87,
+                                "american": -115,
+                                "name": "Seattle Seahawks",
+                                "outcome": "Home",
+                                "price": "-115",
+                                "handicap": -4.5,
+                                "competitorId": "90401",
+                                "lookups": [],
+                                "sourceSelectionId": "33575992-754.98814543-50213",
+                                "link": "https://secure.adnxs.com/seg?t=2&add=27656765&redir=https%3A%2F%2Fssl.connextra.com%2FNFL%2Fselector%2Fclick%3Fclient%3DNFL%26placement%3DNFL_NFL_Fanduel_Mainlines_300x250_Tracker%26tclk%3Dhttps%3A%2F%2Fwlfanduelus.adsrv.eacdn.com%2FC.ashx%3Fbtag%3Da_21590b_16c_%26affid%3D14066%26siteid%3D21590%26adid%3D16%26c%3D"
+                            }
+                        ],
+                        "_lastTransformedAt": "2024-09-18T12:29:14.027Z"
+                    }
+                ],
+                "overUnder": [
+                    {
+                        "sourceFixture": {
+                            "fixtureId": "11061000",
+                            "sourceCompetitionId": "12282733"
+                        },
+                        "sourceMarketId": "33575992-754.98814542",
+                        "marketTypeId": "263",
+                        "name": "Total Match Points",
+                        "sourceId": "8030",
+                        "isSuspended": false,
+                        "selections": [
+                            {
+                                "denominator": 20,
+                                "numerator": 19,
+                                "decimal": 1.95,
+                                "american": -105,
+                                "name": "Over",
+                                "outcome": "Over",
+                                "price": "-105",
+                                "handicap": 41.5,
+                                "competitorId": null,
+                                "lookups": [],
+                                "sourceSelectionId": "33575992-754.98814542-7017916",
+                                "link": "https://secure.adnxs.com/seg?t=2&add=27656765&redir=https%3A%2F%2Fssl.connextra.com%2FNFL%2Fselector%2Fclick%3Fclient%3DNFL%26placement%3DNFL_NFL_Fanduel_Mainlines_300x250_Tracker%26tclk%3Dhttps%3A%2F%2Fwlfanduelus.adsrv.eacdn.com%2FC.ashx%3Fbtag%3Da_21590b_16c_%26affid%3D14066%26siteid%3D21590%26adid%3D16%26c%3D"
+                            },
+                            {
+                                "denominator": 100,
+                                "numerator": 87,
+                                "decimal": 1.87,
+                                "american": -115,
+                                "name": "Under",
+                                "outcome": "Under",
+                                "price": "-115",
+                                "handicap": 41.5,
+                                "competitorId": null,
+                                "lookups": [],
+                                "sourceSelectionId": "33575992-754.98814542-7017917",
+                                "link": "https://secure.adnxs.com/seg?t=2&add=27656765&redir=https%3A%2F%2Fssl.connextra.com%2FNFL%2Fselector%2Fclick%3Fclient%3DNFL%26placement%3DNFL_NFL_Fanduel_Mainlines_300x250_Tracker%26tclk%3Dhttps%3A%2F%2Fwlfanduelus.adsrv.eacdn.com%2FC.ashx%3Fbtag%3Da_21590b_16c_%26affid%3D14066%26siteid%3D21590%26adid%3D16%26c%3D"
+                            }
+                        ],
+                        "_lastTransformedAt": "2024-09-18T12:29:14.027Z"
+                    }
+                ],
+                "moneyLine": [
+                    {
+                        "sourceFixture": {
+                            "fixtureId": "11061000",
+                            "sourceCompetitionId": "12282733"
+                        },
+                        "sourceMarketId": "33575992-754.98814541",
+                        "marketTypeId": "103",
+                        "name": "Moneyline",
+                        "sourceId": "8030",
+                        "isSuspended": false,
+                        "selections": [
+                            {
+                                "denominator": 25,
+                                "numerator": 47,
+                                "decimal": 2.88,
+                                "american": 188,
+                                "name": "Miami Dolphins",
+                                "outcome": "Away",
+                                "price": "+188",
+                                "handicap": 0,
+                                "competitorId": "100604",
+                                "lookups": [],
+                                "sourceSelectionId": "33575992-754.98814541-50201",
+                                "link": "https://secure.adnxs.com/seg?t=2&add=27656765&redir=https%3A%2F%2Fssl.connextra.com%2FNFL%2Fselector%2Fclick%3Fclient%3DNFL%26placement%3DNFL_NFL_Fanduel_Mainlines_300x250_Tracker%26tclk%3Dhttps%3A%2F%2Fwlfanduelus.adsrv.eacdn.com%2FC.ashx%3Fbtag%3Da_21590b_16c_%26affid%3D14066%26siteid%3D21590%26adid%3D16%26c%3D"
+                            },
+                            {
+                                "denominator": 25,
+                                "numerator": 11,
+                                "decimal": 1.44,
+                                "american": -225,
+                                "name": "Seattle Seahawks",
+                                "outcome": "Home",
+                                "price": "-225",
+                                "handicap": 0,
+                                "competitorId": "90401",
+                                "lookups": [],
+                                "sourceSelectionId": "33575992-754.98814541-50213",
+                                "link": "https://secure.adnxs.com/seg?t=2&add=27656765&redir=https%3A%2F%2Fssl.connextra.com%2FNFL%2Fselector%2Fclick%3Fclient%3DNFL%26placement%3DNFL_NFL_Fanduel_Mainlines_300x250_Tracker%26tclk%3Dhttps%3A%2F%2Fwlfanduelus.adsrv.eacdn.com%2FC.ashx%3Fbtag%3Da_21590b_16c_%26affid%3D14066%26siteid%3D21590%26adid%3D16%26c%3D"
+                            }
+                        ],
+                        "_lastTransformedAt": "2024-09-18T12:29:14.027Z"
+                    }
+                ]
+            }
+        }
+    ]
+}

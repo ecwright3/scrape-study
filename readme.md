@@ -14,3 +14,7 @@ Refrences
 - https://webscraping.ai/faq/colly/what-is-the-best-way-to-handle-dynamic-ajax-requests-with-colly
 - https://webscraping.ai/faq/colly/can-colly-handle-scraping-multiple-pages-in-parallel
 
+
+GraphQl
+- https://graphql.com/learn/what-is-graphql/
+

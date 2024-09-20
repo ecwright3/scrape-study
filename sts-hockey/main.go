@@ -2,16 +2,27 @@ package main
 
 import (
 	"fmt"
+	"log"
 	"strconv"
 	"strings"
+	"time"
 
 	"github.com/gocolly/colly"
 )
 
 func main() {
+	start := time.Now()
+	//Create Collector
 	c := colly.NewCollector(
 		colly.AllowedDomains("scrapethissite.com", "www.scrapethissite.com"),
+		colly.Async(true), //Enable asynchronous requests
 	)
+
+	// Limit number of concrrent requests
+	c.Limit(&colly.LimitRule{
+		DomainGlob:  "*",
+		Parallelism: 6, //Adjust number of concurrent requests
+	})
 
 	c.OnHTML(".team", func(e *colly.HTMLElement) {
 		if strings.Contains(strings.ToLower(e.ChildText(".name")), "capitals") {
@@ -43,21 +54,30 @@ func main() {
 		fmt.Println("next page:", pageNum)
 		fmt.Println("next url:", nxtUrl)
 
-		if pageNum <= maxPage {
+		//check pages concurrently
+		for pageNum <= maxPage {
 			nxtPage := strconv.Itoa(pageNum)
 
 			link := "https://www.scrapethissite.com/pages/forms/?page_num=" + nxtPage
-
 			e.Request.Visit(link)
 			fmt.Println("Visiting2", link)
+			pageNum++
 		}
 
 	})
 
 	c.OnRequest(func(request *colly.Request) {
-		fmt.Println("Visiting2", request.URL.String())
+		fmt.Println("Visiting", request.URL.String())
 
 	})
 
 	c.Visit("https://www.scrapethissite.com/pages/forms/?page_num=1")
+
+	// Wait until threads are finished
+	c.Wait()
+	elapsed := time.Since(start)
+	log.Printf("took %s", elapsed)
 }
+
+//https://my.peachjar.com/explore/all?audienceId=all&tab=school&districtId=50183&audienceType=school
+//https://my.peachjar.com/explore/all?audienceId=all&tab=community&districtId=50183&audienceType=school
