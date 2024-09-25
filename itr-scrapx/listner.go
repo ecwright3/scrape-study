@@ -22,7 +22,8 @@ func startListner() {
 }
 
 func HomeHandler(w http.ResponseWriter, r *http.Request) {
-	target := r.FormValue("target")
+	getImages(r.FormValue("target"))
 	w.WriteHeader(http.StatusOK)
-	fmt.Fprintf(w, "Name: %v\n", target)
+	fmt.Fprintf(w, "Name: %v\n", r.FormValue("target"))
+
 }
