@@ -26,7 +26,7 @@ type MetaStruct struct {
 // var url string
 var metadata MetaStruct
 
-func getImages(url string) MetaStruct {
+func getImages(url string) (MetaStruct, bytes.Buffer) {
 
 	//url = "https://example.com/gallery"
 	//url = "https://www.pornpics.com/galleries/pretty-amateur-babe-soledad-lomas-flashes-her-hot-boobs-at-the-store-20119808/"
@@ -86,18 +86,18 @@ func getImages(url string) MetaStruct {
 
 	// Download and zip the images
 	archiveName := "images.zip"
-	err = downloadAndZipImages(imageLinks, archiveName)
+	data, err := downloadAndZipImages(imageLinks, archiveName)
 	if err != nil {
 		fmt.Println("Error downloading images:", err)
 	}
+	/*
+		data, err := json.Marshal(metadata)
+		if err != nil {
+			fmt.Println(err)
+		}
+		fmt.Println(string(data))*/
 
-	data, err := json.Marshal(metadata)
-	if err != nil {
-		fmt.Println(err)
-	}
-	fmt.Println(string(data))
-
-	return metadata
+	return metadata, data
 }
 
 func extractText(s string) string {
@@ -105,7 +105,7 @@ func extractText(s string) string {
 	return strings.TrimSpace(s[:m])
 }
 
-func downloadAndZipImages(links []string, archiveName string) error {
+func downloadAndZipImages(links []string, archiveName string) (bytes.Buffer, error) {
 	// Create a buffer to write our archive to
 
 	buf := new(bytes.Buffer)
@@ -115,7 +115,7 @@ func downloadAndZipImages(links []string, archiveName string) error {
 
 	zipFile, err := zipWriter.Create("metadata.json")
 	if err != nil {
-		return fmt.Errorf("could not create zip entry for metadata.json: %v", err)
+		return *buf, fmt.Errorf("could not create zip entry for metadata.json: %v", err)
 	}
 
 	data, err := json.Marshal(metadata)
@@ -125,7 +125,7 @@ func downloadAndZipImages(links []string, archiveName string) error {
 
 	_, err = io.Copy(zipFile, bytes.NewReader(data))
 	if err != nil {
-		return fmt.Errorf("could not copy data for metadata.json: %v", err)
+		return *buf, fmt.Errorf("could not copy data for metadata.json: %v", err)
 	}
 
 	for _, link := range links {
@@ -139,25 +139,25 @@ func downloadAndZipImages(links []string, archiveName string) error {
 		fileName := filepath.Base(link)
 		zipFile, err := zipWriter.Create(fileName)
 		if err != nil {
-			return fmt.Errorf("could not create zip entry for %s: %v", fileName, err)
+			return *buf, fmt.Errorf("could not create zip entry for %s: %v", fileName, err)
 		}
 
 		_, err = io.Copy(zipFile, resp.Body)
 		if err != nil {
-			return fmt.Errorf("could not copy data for %s: %v", fileName, err)
+			return *buf, fmt.Errorf("could not copy data for %s: %v", fileName, err)
 		}
 	}
 
 	err = zipWriter.Close()
 	if err != nil {
-		return fmt.Errorf("could not close zip writer: %v", err)
+		return *buf, fmt.Errorf("could not close zip writer: %v", err)
 	}
 
 	// Write the buffer to a file
 	err = os.WriteFile(archiveName, buf.Bytes(), 0644)
 	if err != nil {
-		return fmt.Errorf("could not write zip file to disk: %v", err)
+		return *buf, fmt.Errorf("could not write zip file to disk: %v", err)
 	}
 
-	return nil
+	return *buf, nil
 }
