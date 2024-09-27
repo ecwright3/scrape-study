@@ -16,7 +16,7 @@ func startListner() {
 	//Define a route
 	r.Path("/mone/").Queries("target", "{key}").HandlerFunc(HomeHandler).Name("HomeHandler")
 
-	log.Fatal(http.ListenAndServe(":8000", r))
+	log.Fatal(http.ListenAndServe("0.0.0.0:8000", r))
 
 }
 
