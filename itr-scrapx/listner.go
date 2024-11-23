@@ -5,6 +5,7 @@ import (
 	"fmt"
 	"log"
 	"net/http"
+	"os"
 
 	"github.com/gorilla/mux"
 )
@@ -33,6 +34,13 @@ func HomeHandler(w http.ResponseWriter, r *http.Request) {
 		fmt.Println(err)
 	} else {
 		fmt.Println(string(data))
+	}
+	//Delete Archive from local storage
+	err2 := os.Remove("Images.zip")
+
+	if err2 != nil {
+		fmt.Println("Error deleting file:", err)
+		return
 	}
 
 }

@@ -35,10 +35,18 @@ func getImages(url string) (MetaStruct, bytes.Buffer) {
 
 	// Create a new collector
 	c := colly.NewCollector()
+	var fullurl string
+	// Check if the URL starts with the specified prefix
+	if strings.HasPrefix(url, "https://www.pornpics.com/galleries/") {
+		fullurl = url
+	} else {
+		fullurl = "https://www.pornpics.com/galleries/" + url
+	}
 
 	var imageLinks []string
 	//metadata := new(MetaStruct)
-	metadata.URL = url
+	metadata.URL = fullurl
+
 	// Find and visit all image links
 	c.OnHTML("#tiles .rel-link", func(e *colly.HTMLElement) {
 		link := e.Attr("href")
@@ -77,7 +85,7 @@ func getImages(url string) (MetaStruct, bytes.Buffer) {
 	})
 
 	// Start the collector
-	err := c.Visit(url) // Change to your target URL
+	err := c.Visit(fullurl) // Change to your target URL
 	if err != nil {
 		fmt.Println("Error visiting page:", err)
 	}
